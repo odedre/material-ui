@@ -378,5 +378,5912 @@
             "odedreuveny.material-ui-utils-t/utils/rtl@1",
             "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1"
         ]
+    },
+    "action/account-balance": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/account-balance.js",
+                "test": false,
+                "name": "account-balance.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/account-balance.js",
+        "origin": "AUTHORED"
+    },
+    "action/alarm-add": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/alarm-add.js",
+                "test": false,
+                "name": "alarm-add.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/alarm-add.js",
+        "origin": "AUTHORED"
+    },
+    "action/help": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/help.js",
+                "test": false,
+                "name": "help.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/help.js",
+        "origin": "AUTHORED"
+    },
+    "action/stars": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/stars.js",
+                "test": false,
+                "name": "stars.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/stars.js",
+        "origin": "AUTHORED"
+    },
+    "action/view-week": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/view-week.js",
+                "test": false,
+                "name": "view-week.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/view-week.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/android@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/android.js",
+                "test": false,
+                "name": "android.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/android.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/all-out@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/all-out.js",
+                "test": false,
+                "name": "all-out.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/all-out.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/account-circle@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/account-circle.js",
+                "test": false,
+                "name": "account-circle.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/account-circle.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/accessibility@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/accessibility.js",
+                "test": false,
+                "name": "accessibility.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/accessibility.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/account-balance-wallet@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/account-balance-wallet.js",
+                "test": false,
+                "name": "account-balance-wallet.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/account-balance-wallet.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/alarm@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/alarm.js",
+                "test": false,
+                "name": "alarm.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/alarm.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/add-shopping-cart@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/add-shopping-cart.js",
+                "test": false,
+                "name": "add-shopping-cart.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/add-shopping-cart.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/account-box@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/account-box.js",
+                "test": false,
+                "name": "account-box.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/account-box.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/alarm-on@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/alarm-on.js",
+                "test": false,
+                "name": "alarm-on.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/alarm-on.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/accessible@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/accessible.js",
+                "test": false,
+                "name": "accessible.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/accessible.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/alarm-off@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/alarm-off.js",
+                "test": false,
+                "name": "alarm-off.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/alarm-off.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/assignment-turned-in@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/assignment-turned-in.js",
+                "test": false,
+                "name": "assignment-turned-in.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/assignment-turned-in.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/assessment@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/assessment.js",
+                "test": false,
+                "name": "assessment.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/assessment.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/announcement@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/announcement.js",
+                "test": false,
+                "name": "announcement.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/announcement.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/assignment@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/assignment.js",
+                "test": false,
+                "name": "assignment.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/assignment.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/aspect-ratio@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/aspect-ratio.js",
+                "test": false,
+                "name": "aspect-ratio.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/aspect-ratio.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/autorenew@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/autorenew.js",
+                "test": false,
+                "name": "autorenew.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/autorenew.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/assignment-returned@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/assignment-returned.js",
+                "test": false,
+                "name": "assignment-returned.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/assignment-returned.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/assignment-late@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/assignment-late.js",
+                "test": false,
+                "name": "assignment-late.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/assignment-late.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/assignment-return@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/assignment-return.js",
+                "test": false,
+                "name": "assignment-return.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/assignment-return.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/assignment-ind@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/assignment-ind.js",
+                "test": false,
+                "name": "assignment-ind.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/assignment-ind.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/backup@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/backup.js",
+                "test": false,
+                "name": "backup.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/backup.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/book@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/book.js",
+                "test": false,
+                "name": "book.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/book.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/bookmark-border@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/bookmark-border.js",
+                "test": false,
+                "name": "bookmark-border.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/bookmark-border.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/card-travel@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/card-travel.js",
+                "test": false,
+                "name": "card-travel.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/card-travel.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/chrome-reader-mode@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/chrome-reader-mode.js",
+                "test": false,
+                "name": "chrome-reader-mode.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/chrome-reader-mode.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/build@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/build.js",
+                "test": false,
+                "name": "build.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/build.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/bookmark@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/bookmark.js",
+                "test": false,
+                "name": "bookmark.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/bookmark.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/change-history@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/change-history.js",
+                "test": false,
+                "name": "change-history.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/change-history.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/card-giftcard@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/card-giftcard.js",
+                "test": false,
+                "name": "card-giftcard.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/card-giftcard.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/bug-report@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/bug-report.js",
+                "test": false,
+                "name": "bug-report.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/bug-report.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/camera-enhance@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/camera-enhance.js",
+                "test": false,
+                "name": "camera-enhance.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/camera-enhance.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/check-circle@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/check-circle.js",
+                "test": false,
+                "name": "check-circle.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/check-circle.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/card-membership@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/card-membership.js",
+                "test": false,
+                "name": "card-membership.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/card-membership.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/class@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/class.js",
+                "test": false,
+                "name": "class.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/class.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/cached@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/cached.js",
+                "test": false,
+                "name": "cached.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/cached.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/code@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/code.js",
+                "test": false,
+                "name": "code.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/code.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/event@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/event.js",
+                "test": false,
+                "name": "event.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/event.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/dns@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/dns.js",
+                "test": false,
+                "name": "dns.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/dns.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/eject@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/eject.js",
+                "test": false,
+                "name": "eject.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/eject.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/delete@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/delete.js",
+                "test": false,
+                "name": "delete.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/delete.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/credit-card@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/credit-card.js",
+                "test": false,
+                "name": "credit-card.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/credit-card.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/date-range@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/date-range.js",
+                "test": false,
+                "name": "date-range.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/date-range.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/copyright@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/copyright.js",
+                "test": false,
+                "name": "copyright.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/copyright.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/donut-small@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/donut-small.js",
+                "test": false,
+                "name": "donut-small.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/donut-small.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/description@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/description.js",
+                "test": false,
+                "name": "description.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/description.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/delete-forever@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/delete-forever.js",
+                "test": false,
+                "name": "delete-forever.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/delete-forever.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/done@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/done.js",
+                "test": false,
+                "name": "done.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/done.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/compare-arrows@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/compare-arrows.js",
+                "test": false,
+                "name": "compare-arrows.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/compare-arrows.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/dashboard@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/dashboard.js",
+                "test": false,
+                "name": "dashboard.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/dashboard.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/euro-symbol@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/euro-symbol.js",
+                "test": false,
+                "name": "euro-symbol.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/euro-symbol.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/donut-large@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/donut-large.js",
+                "test": false,
+                "name": "donut-large.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/donut-large.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/done-all@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/done-all.js",
+                "test": false,
+                "name": "done-all.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/done-all.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/event-seat@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/event-seat.js",
+                "test": false,
+                "name": "event-seat.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/event-seat.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/face@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/face.js",
+                "test": false,
+                "name": "face.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/face.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/favorite@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/favorite.js",
+                "test": false,
+                "name": "favorite.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/favorite.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/gif@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/gif.js",
+                "test": false,
+                "name": "gif.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/gif.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/get-app@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/get-app.js",
+                "test": false,
+                "name": "get-app.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/get-app.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/gavel@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/gavel.js",
+                "test": false,
+                "name": "gavel.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/gavel.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/flight-land@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/flight-land.js",
+                "test": false,
+                "name": "flight-land.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/flight-land.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/extension@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/extension.js",
+                "test": false,
+                "name": "extension.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/extension.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/favorite-border@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/favorite-border.js",
+                "test": false,
+                "name": "favorite-border.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/favorite-border.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/feedback@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/feedback.js",
+                "test": false,
+                "name": "feedback.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/feedback.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/flip-to-back@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/flip-to-back.js",
+                "test": false,
+                "name": "flip-to-back.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/flip-to-back.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/fingerprint@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/fingerprint.js",
+                "test": false,
+                "name": "fingerprint.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/fingerprint.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/flight-takeoff@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/flight-takeoff.js",
+                "test": false,
+                "name": "flight-takeoff.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/flight-takeoff.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/exit-to-app@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/exit-to-app.js",
+                "test": false,
+                "name": "exit-to-app.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/exit-to-app.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/g-translate@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/g-translate.js",
+                "test": false,
+                "name": "g-translate.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/g-translate.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/flip-to-front@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/flip-to-front.js",
+                "test": false,
+                "name": "flip-to-front.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/flip-to-front.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/find-replace@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/find-replace.js",
+                "test": false,
+                "name": "find-replace.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/find-replace.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/find-in-page@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/find-in-page.js",
+                "test": false,
+                "name": "find-in-page.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/find-in-page.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/explore@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/explore.js",
+                "test": false,
+                "name": "explore.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/explore.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/label@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/label.js",
+                "test": false,
+                "name": "label.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/label.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/hourglass-full@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/hourglass-full.js",
+                "test": false,
+                "name": "hourglass-full.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/hourglass-full.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/launch@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/launch.js",
+                "test": false,
+                "name": "launch.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/launch.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/important-devices@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/important-devices.js",
+                "test": false,
+                "name": "important-devices.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/important-devices.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/markunread-mailbox@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/markunread-mailbox.js",
+                "test": false,
+                "name": "markunread-mailbox.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/markunread-mailbox.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/https@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/https.js",
+                "test": false,
+                "name": "https.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/https.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/line-weight@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/line-weight.js",
+                "test": false,
+                "name": "line-weight.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/line-weight.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/line-style@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/line-style.js",
+                "test": false,
+                "name": "line-style.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/line-style.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/grade@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/grade.js",
+                "test": false,
+                "name": "grade.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/grade.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/info@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/info.js",
+                "test": false,
+                "name": "info.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/info.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/help-outline@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/help-outline.js",
+                "test": false,
+                "name": "help-outline.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/help-outline.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/lock@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/lock.js",
+                "test": false,
+                "name": "lock.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/lock.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/invert-colors@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/invert-colors.js",
+                "test": false,
+                "name": "invert-colors.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/invert-colors.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/language@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/language.js",
+                "test": false,
+                "name": "language.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/language.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/lock-open@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/lock-open.js",
+                "test": false,
+                "name": "lock-open.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/lock-open.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/input@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/input.js",
+                "test": false,
+                "name": "input.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/input.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/http@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/http.js",
+                "test": false,
+                "name": "http.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/http.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/highlight-off@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/highlight-off.js",
+                "test": false,
+                "name": "highlight-off.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/highlight-off.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/label-outline@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/label-outline.js",
+                "test": false,
+                "name": "label-outline.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/label-outline.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/info-outline@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/info-outline.js",
+                "test": false,
+                "name": "info-outline.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/info-outline.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/history@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/history.js",
+                "test": false,
+                "name": "history.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/history.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/list@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/list.js",
+                "test": false,
+                "name": "list.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/list.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/home@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/home.js",
+                "test": false,
+                "name": "home.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/home.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/note-add@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/note-add.js",
+                "test": false,
+                "name": "note-add.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/note-add.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/open-in-browser@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/open-in-browser.js",
+                "test": false,
+                "name": "open-in-browser.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/open-in-browser.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/offline-pin@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/offline-pin.js",
+                "test": false,
+                "name": "offline-pin.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/offline-pin.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/lock-outline@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/lock-outline.js",
+                "test": false,
+                "name": "lock-outline.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/lock-outline.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/opacity@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/opacity.js",
+                "test": false,
+                "name": "opacity.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/opacity.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/picture-in-picture-alt@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/picture-in-picture-alt.js",
+                "test": false,
+                "name": "picture-in-picture-alt.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/picture-in-picture-alt.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/perm-media@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/perm-media.js",
+                "test": false,
+                "name": "perm-media.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/perm-media.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/perm-device-information@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/perm-device-information.js",
+                "test": false,
+                "name": "perm-device-information.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/perm-device-information.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/remove-shopping-cart@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/remove-shopping-cart.js",
+                "test": false,
+                "name": "remove-shopping-cart.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/remove-shopping-cart.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/print@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/print.js",
+                "test": false,
+                "name": "print.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/print.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/polymer@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/polymer.js",
+                "test": false,
+                "name": "polymer.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/polymer.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/perm-phone-msg@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/perm-phone-msg.js",
+                "test": false,
+                "name": "perm-phone-msg.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/perm-phone-msg.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/pets@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/pets.js",
+                "test": false,
+                "name": "pets.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/pets.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/question-answer@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/question-answer.js",
+                "test": false,
+                "name": "question-answer.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/question-answer.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/perm-identity@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/perm-identity.js",
+                "test": false,
+                "name": "perm-identity.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/perm-identity.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/query-builder@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/query-builder.js",
+                "test": false,
+                "name": "query-builder.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/query-builder.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/open-with@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/open-with.js",
+                "test": false,
+                "name": "open-with.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/open-with.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/perm-scan-wifi@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/perm-scan-wifi.js",
+                "test": false,
+                "name": "perm-scan-wifi.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/perm-scan-wifi.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/power-settings-new@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/power-settings-new.js",
+                "test": false,
+                "name": "power-settings-new.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/power-settings-new.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/restore-page@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/restore-page.js",
+                "test": false,
+                "name": "restore-page.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/restore-page.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/pageview@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/pageview.js",
+                "test": false,
+                "name": "pageview.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/pageview.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/perm-contact-calendar@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/perm-contact-calendar.js",
+                "test": false,
+                "name": "perm-contact-calendar.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/perm-contact-calendar.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/payment@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/payment.js",
+                "test": false,
+                "name": "payment.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/payment.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/perm-camera-mic@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/perm-camera-mic.js",
+                "test": false,
+                "name": "perm-camera-mic.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/perm-camera-mic.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/picture-in-picture@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/picture-in-picture.js",
+                "test": false,
+                "name": "picture-in-picture.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/picture-in-picture.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/reorder@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/reorder.js",
+                "test": false,
+                "name": "reorder.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/reorder.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/pan-tool@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/pan-tool.js",
+                "test": false,
+                "name": "pan-tool.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/pan-tool.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/play-for-work@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/play-for-work.js",
+                "test": false,
+                "name": "play-for-work.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/play-for-work.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/pregnant-woman@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/pregnant-woman.js",
+                "test": false,
+                "name": "pregnant-woman.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/pregnant-woman.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/open-in-new@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/open-in-new.js",
+                "test": false,
+                "name": "open-in-new.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/open-in-new.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/settings-cell@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/settings-cell.js",
+                "test": false,
+                "name": "settings-cell.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/settings-cell.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/settings-remote@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/settings-remote.js",
+                "test": false,
+                "name": "settings-remote.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/settings-remote.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/rowing@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/rowing.js",
+                "test": false,
+                "name": "rowing.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/rowing.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/settings-applications@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/settings-applications.js",
+                "test": false,
+                "name": "settings-applications.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/settings-applications.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/shopping-cart@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/shopping-cart.js",
+                "test": false,
+                "name": "shopping-cart.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/shopping-cart.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/settings-overscan@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/settings-overscan.js",
+                "test": false,
+                "name": "settings-overscan.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/settings-overscan.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/schedule@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/schedule.js",
+                "test": false,
+                "name": "schedule.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/schedule.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/settings-voice@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/settings-voice.js",
+                "test": false,
+                "name": "settings-voice.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/settings-voice.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/settings-input-svideo@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/settings-input-svideo.js",
+                "test": false,
+                "name": "settings-input-svideo.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/settings-input-svideo.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/rounded-corner@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/rounded-corner.js",
+                "test": false,
+                "name": "rounded-corner.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/rounded-corner.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/shopping-basket@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/shopping-basket.js",
+                "test": false,
+                "name": "shopping-basket.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/shopping-basket.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/settings-input-hdmi@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/settings-input-hdmi.js",
+                "test": false,
+                "name": "settings-input-hdmi.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/settings-input-hdmi.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/settings-backup-restore@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/settings-backup-restore.js",
+                "test": false,
+                "name": "settings-backup-restore.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/settings-backup-restore.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/settings@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/settings.js",
+                "test": false,
+                "name": "settings.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/settings.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/settings-input-component@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/settings-input-component.js",
+                "test": false,
+                "name": "settings-input-component.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/settings-input-component.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/settings-ethernet@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/settings-ethernet.js",
+                "test": false,
+                "name": "settings-ethernet.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/settings-ethernet.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/search@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/search.js",
+                "test": false,
+                "name": "search.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/search.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/thumb-down@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/thumb-down.js",
+                "test": false,
+                "name": "thumb-down.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/thumb-down.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/track-changes@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/track-changes.js",
+                "test": false,
+                "name": "track-changes.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/track-changes.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/swap-horiz@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/swap-horiz.js",
+                "test": false,
+                "name": "swap-horiz.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/swap-horiz.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/timeline@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/timeline.js",
+                "test": false,
+                "name": "timeline.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/timeline.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/speaker-notes@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/speaker-notes.js",
+                "test": false,
+                "name": "speaker-notes.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/speaker-notes.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/swap-vert@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/swap-vert.js",
+                "test": false,
+                "name": "swap-vert.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/swap-vert.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/translate@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/translate.js",
+                "test": false,
+                "name": "translate.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/translate.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/toll@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/toll.js",
+                "test": false,
+                "name": "toll.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/toll.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/spellcheck@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/spellcheck.js",
+                "test": false,
+                "name": "spellcheck.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/spellcheck.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/theaters@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/theaters.js",
+                "test": false,
+                "name": "theaters.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/theaters.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/toc@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/toc.js",
+                "test": false,
+                "name": "toc.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/toc.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/subject@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/subject.js",
+                "test": false,
+                "name": "subject.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/subject.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/view-stream@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/view-stream.js",
+                "test": false,
+                "name": "view-stream.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/view-stream.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/youtube-searched-for@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/youtube-searched-for.js",
+                "test": false,
+                "name": "youtube-searched-for.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/youtube-searched-for.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/view-array@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/view-array.js",
+                "test": false,
+                "name": "view-array.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/view-array.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/trending-flat@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/trending-flat.js",
+                "test": false,
+                "name": "trending-flat.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/trending-flat.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/view-agenda@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/view-agenda.js",
+                "test": false,
+                "name": "view-agenda.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/view-agenda.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/turned-in@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/turned-in.js",
+                "test": false,
+                "name": "turned-in.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/turned-in.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/visibility@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/visibility.js",
+                "test": false,
+                "name": "visibility.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/visibility.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/view-day@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/view-day.js",
+                "test": false,
+                "name": "view-day.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/view-day.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/zoom-in@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/zoom-in.js",
+                "test": false,
+                "name": "zoom-in.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/zoom-in.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/trending-up@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/trending-up.js",
+                "test": false,
+                "name": "trending-up.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/trending-up.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/touch-app@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/touch-app.js",
+                "test": false,
+                "name": "touch-app.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/touch-app.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/view-headline@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/view-headline.js",
+                "test": false,
+                "name": "view-headline.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/view-headline.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/trending-down@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/trending-down.js",
+                "test": false,
+                "name": "trending-down.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/trending-down.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/thumbs-up-down@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/thumbs-up-down.js",
+                "test": false,
+                "name": "thumbs-up-down.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/thumbs-up-down.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/view-carousel@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/view-carousel.js",
+                "test": false,
+                "name": "view-carousel.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/view-carousel.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/update@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/update.js",
+                "test": false,
+                "name": "update.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/update.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/receipt@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/receipt.js",
+                "test": false,
+                "name": "receipt.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/receipt.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/work@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/work.js",
+                "test": false,
+                "name": "work.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/work.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/settings-phone@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/settings-phone.js",
+                "test": false,
+                "name": "settings-phone.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/settings-phone.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/tab-unselected@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/tab-unselected.js",
+                "test": false,
+                "name": "tab-unselected.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/tab-unselected.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/loyalty@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/loyalty.js",
+                "test": false,
+                "name": "loyalty.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/loyalty.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/settings-power@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/settings-power.js",
+                "test": false,
+                "name": "settings-power.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/settings-power.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/motorcycle@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/motorcycle.js",
+                "test": false,
+                "name": "motorcycle.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/motorcycle.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/room@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/room.js",
+                "test": false,
+                "name": "room.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/room.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/verified-user@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/verified-user.js",
+                "test": false,
+                "name": "verified-user.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/verified-user.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/redeem@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/redeem.js",
+                "test": false,
+                "name": "redeem.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/redeem.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/supervisor-account@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/supervisor-account.js",
+                "test": false,
+                "name": "supervisor-account.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/supervisor-account.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/view-quilt@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/view-quilt.js",
+                "test": false,
+                "name": "view-quilt.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/view-quilt.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/group-work@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/group-work.js",
+                "test": false,
+                "name": "group-work.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/group-work.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/today@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/today.js",
+                "test": false,
+                "name": "today.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/today.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/view-column@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/view-column.js",
+                "test": false,
+                "name": "view-column.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/view-column.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/shop-two@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/shop-two.js",
+                "test": false,
+                "name": "shop-two.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/shop-two.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/store@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/store.js",
+                "test": false,
+                "name": "store.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/store.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/watch-later@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/watch-later.js",
+                "test": false,
+                "name": "watch-later.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/watch-later.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/restore@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/restore.js",
+                "test": false,
+                "name": "restore.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/restore.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/view-list@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/view-list.js",
+                "test": false,
+                "name": "view-list.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/view-list.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/view-module@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/view-module.js",
+                "test": false,
+                "name": "view-module.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/view-module.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/system-update-alt@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/system-update-alt.js",
+                "test": false,
+                "name": "system-update-alt.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/system-update-alt.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/zoom-out@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/zoom-out.js",
+                "test": false,
+                "name": "zoom-out.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/zoom-out.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/three-d-rotation@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/three-d-rotation.js",
+                "test": false,
+                "name": "three-d-rotation.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/three-d-rotation.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/record-voice-over@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/record-voice-over.js",
+                "test": false,
+                "name": "record-voice-over.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/record-voice-over.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/settings-bluetooth@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/settings-bluetooth.js",
+                "test": false,
+                "name": "settings-bluetooth.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/settings-bluetooth.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/perm-data-setting@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/perm-data-setting.js",
+                "test": false,
+                "name": "perm-data-setting.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/perm-data-setting.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/shop@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/shop.js",
+                "test": false,
+                "name": "shop.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/shop.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/visibility-off@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/visibility-off.js",
+                "test": false,
+                "name": "visibility-off.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/visibility-off.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/thumb-up@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/thumb-up.js",
+                "test": false,
+                "name": "thumb-up.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/thumb-up.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/settings-brightness@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/settings-brightness.js",
+                "test": false,
+                "name": "settings-brightness.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/settings-brightness.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/settings-input-antenna@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/settings-input-antenna.js",
+                "test": false,
+                "name": "settings-input-antenna.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/settings-input-antenna.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/speaker-notes-off@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/speaker-notes-off.js",
+                "test": false,
+                "name": "speaker-notes-off.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/speaker-notes-off.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/swap-vertical-circle@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/swap-vertical-circle.js",
+                "test": false,
+                "name": "swap-vertical-circle.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/swap-vertical-circle.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/lightbulb-outline@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/lightbulb-outline.js",
+                "test": false,
+                "name": "lightbulb-outline.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/lightbulb-outline.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/tab@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/tab.js",
+                "test": false,
+                "name": "tab.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/tab.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/hourglass-empty@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/hourglass-empty.js",
+                "test": false,
+                "name": "hourglass-empty.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/hourglass-empty.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/settings-input-composite@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/settings-input-composite.js",
+                "test": false,
+                "name": "settings-input-composite.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/settings-input-composite.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/report-problem@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/report-problem.js",
+                "test": false,
+                "name": "report-problem.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/report-problem.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/action/turned-in-not@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/action/turned-in-not.js",
+                "test": false,
+                "name": "turned-in-not.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/action/turned-in-not.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/stop@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/stop.js",
+                "test": false,
+                "name": "stop.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/stop.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/fast-forward@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/fast-forward.js",
+                "test": false,
+                "name": "fast-forward.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/fast-forward.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/hearing@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/hearing.js",
+                "test": false,
+                "name": "hearing.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/hearing.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/videocam@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/videocam.js",
+                "test": false,
+                "name": "videocam.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/videocam.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/snooze@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/snooze.js",
+                "test": false,
+                "name": "snooze.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/snooze.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/forward-10@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/forward-10.js",
+                "test": false,
+                "name": "forward-10.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/forward-10.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/featured-play-list@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/featured-play-list.js",
+                "test": false,
+                "name": "featured-play-list.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/featured-play-list.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/sort-by-alpha@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/sort-by-alpha.js",
+                "test": false,
+                "name": "sort-by-alpha.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/sort-by-alpha.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/add-to-queue@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/add-to-queue.js",
+                "test": false,
+                "name": "add-to-queue.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/add-to-queue.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/mic@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/mic.js",
+                "test": false,
+                "name": "mic.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/mic.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/subscriptions@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/subscriptions.js",
+                "test": false,
+                "name": "subscriptions.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/subscriptions.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/forward-30@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/forward-30.js",
+                "test": false,
+                "name": "forward-30.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/forward-30.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/web@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/web.js",
+                "test": false,
+                "name": "web.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/web.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/video-library@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/video-library.js",
+                "test": false,
+                "name": "video-library.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/video-library.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/pause@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/pause.js",
+                "test": false,
+                "name": "pause.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/pause.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/mic-off@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/mic-off.js",
+                "test": false,
+                "name": "mic-off.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/mic-off.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/volume-mute@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/volume-mute.js",
+                "test": false,
+                "name": "volume-mute.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/volume-mute.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/library-books@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/library-books.js",
+                "test": false,
+                "name": "library-books.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/library-books.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/hd@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/hd.js",
+                "test": false,
+                "name": "hd.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/hd.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/explicit@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/explicit.js",
+                "test": false,
+                "name": "explicit.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/explicit.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/call-to-action@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/call-to-action.js",
+                "test": false,
+                "name": "call-to-action.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/call-to-action.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/forward-5@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/forward-5.js",
+                "test": false,
+                "name": "forward-5.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/forward-5.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/queue-play-next@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/queue-play-next.js",
+                "test": false,
+                "name": "queue-play-next.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/queue-play-next.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/music-video@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/music-video.js",
+                "test": false,
+                "name": "music-video.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/music-video.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/play-circle-outline@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/play-circle-outline.js",
+                "test": false,
+                "name": "play-circle-outline.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/play-circle-outline.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/volume-up@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/volume-up.js",
+                "test": false,
+                "name": "volume-up.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/volume-up.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/surround-sound@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/surround-sound.js",
+                "test": false,
+                "name": "surround-sound.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/surround-sound.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/featured-video@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/featured-video.js",
+                "test": false,
+                "name": "featured-video.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/featured-video.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/pause-circle-outline@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/pause-circle-outline.js",
+                "test": false,
+                "name": "pause-circle-outline.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/pause-circle-outline.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/playlist-add-check@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/playlist-add-check.js",
+                "test": false,
+                "name": "playlist-add-check.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/playlist-add-check.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/repeat-one@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/repeat-one.js",
+                "test": false,
+                "name": "repeat-one.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/repeat-one.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/games@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/games.js",
+                "test": false,
+                "name": "games.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/games.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/new-releases@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/new-releases.js",
+                "test": false,
+                "name": "new-releases.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/new-releases.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/av-timer@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/av-timer.js",
+                "test": false,
+                "name": "av-timer.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/av-timer.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/airplay@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/airplay.js",
+                "test": false,
+                "name": "airplay.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/airplay.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/fiber-smart-record@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/fiber-smart-record.js",
+                "test": false,
+                "name": "fiber-smart-record.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/fiber-smart-record.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/art-track@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/art-track.js",
+                "test": false,
+                "name": "art-track.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/art-track.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/library-music@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/library-music.js",
+                "test": false,
+                "name": "library-music.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/library-music.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/note@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/note.js",
+                "test": false,
+                "name": "note.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/note.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/fiber-new@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/fiber-new.js",
+                "test": false,
+                "name": "fiber-new.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/fiber-new.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/equalizer@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/equalizer.js",
+                "test": false,
+                "name": "equalizer.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/equalizer.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/slow-motion-video@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/slow-motion-video.js",
+                "test": false,
+                "name": "slow-motion-video.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/slow-motion-video.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/branding-watermark@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/branding-watermark.js",
+                "test": false,
+                "name": "branding-watermark.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/branding-watermark.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/queue-music@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/queue-music.js",
+                "test": false,
+                "name": "queue-music.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/queue-music.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/recent-actors@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/recent-actors.js",
+                "test": false,
+                "name": "recent-actors.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/recent-actors.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/playlist-play@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/playlist-play.js",
+                "test": false,
+                "name": "playlist-play.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/playlist-play.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/closed-caption@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/closed-caption.js",
+                "test": false,
+                "name": "closed-caption.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/closed-caption.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/shuffle@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/shuffle.js",
+                "test": false,
+                "name": "shuffle.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/shuffle.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/loop@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/loop.js",
+                "test": false,
+                "name": "loop.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/loop.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/video-label@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/video-label.js",
+                "test": false,
+                "name": "video-label.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/video-label.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/web-asset@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/web-asset.js",
+                "test": false,
+                "name": "web-asset.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/web-asset.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/library-add@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/library-add.js",
+                "test": false,
+                "name": "library-add.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/library-add.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/videocam-off@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/videocam-off.js",
+                "test": false,
+                "name": "videocam-off.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/videocam-off.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/fiber-manual-record@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/fiber-manual-record.js",
+                "test": false,
+                "name": "fiber-manual-record.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/fiber-manual-record.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/radio@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/radio.js",
+                "test": false,
+                "name": "radio.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/radio.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/replay-30@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/replay-30.js",
+                "test": false,
+                "name": "replay-30.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/replay-30.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/volume-down@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/volume-down.js",
+                "test": false,
+                "name": "volume-down.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/volume-down.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/skip-previous@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/skip-previous.js",
+                "test": false,
+                "name": "skip-previous.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/skip-previous.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/fast-rewind@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/fast-rewind.js",
+                "test": false,
+                "name": "fast-rewind.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/fast-rewind.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/not-interested@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/not-interested.js",
+                "test": false,
+                "name": "not-interested.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/not-interested.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/high-quality@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/high-quality.js",
+                "test": false,
+                "name": "high-quality.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/high-quality.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/remove-from-queue@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/remove-from-queue.js",
+                "test": false,
+                "name": "remove-from-queue.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/remove-from-queue.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/pause-circle-filled@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/pause-circle-filled.js",
+                "test": false,
+                "name": "pause-circle-filled.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/pause-circle-filled.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/video-call@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/video-call.js",
+                "test": false,
+                "name": "video-call.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/video-call.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/skip-next@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/skip-next.js",
+                "test": false,
+                "name": "skip-next.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/skip-next.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/playlist-add@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/playlist-add.js",
+                "test": false,
+                "name": "playlist-add.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/playlist-add.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/movie@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/movie.js",
+                "test": false,
+                "name": "movie.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/movie.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/play-circle-filled@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/play-circle-filled.js",
+                "test": false,
+                "name": "play-circle-filled.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/play-circle-filled.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/play-arrow@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/play-arrow.js",
+                "test": false,
+                "name": "play-arrow.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/play-arrow.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/subtitles@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/subtitles.js",
+                "test": false,
+                "name": "subtitles.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/subtitles.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/fiber-dvr@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/fiber-dvr.js",
+                "test": false,
+                "name": "fiber-dvr.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/fiber-dvr.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/repeat@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/repeat.js",
+                "test": false,
+                "name": "repeat.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/repeat.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/album@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/album.js",
+                "test": false,
+                "name": "album.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/album.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/volume-off@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/volume-off.js",
+                "test": false,
+                "name": "volume-off.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/volume-off.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/replay@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/replay.js",
+                "test": false,
+                "name": "replay.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/replay.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/mic-none@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/mic-none.js",
+                "test": false,
+                "name": "mic-none.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/mic-none.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/fiber-pin@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/fiber-pin.js",
+                "test": false,
+                "name": "fiber-pin.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/fiber-pin.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/replay-10@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/replay-10.js",
+                "test": false,
+                "name": "replay-10.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/replay-10.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/queue@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/queue.js",
+                "test": false,
+                "name": "queue.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/queue.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/av/replay-5@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/av/replay-5.js",
+                "test": false,
+                "name": "replay-5.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/av/replay-5.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/invert-colors-off@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/invert-colors-off.js",
+                "test": false,
+                "name": "invert-colors-off.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/invert-colors-off.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/alert/error@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/alert/error.js",
+                "test": false,
+                "name": "error.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/alert/error.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/dialpad@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/dialpad.js",
+                "test": false,
+                "name": "dialpad.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/dialpad.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/contact-mail@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/contact-mail.js",
+                "test": false,
+                "name": "contact-mail.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/contact-mail.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/phonelink-erase@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/phonelink-erase.js",
+                "test": false,
+                "name": "phonelink-erase.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/phonelink-erase.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/call-merge@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/call-merge.js",
+                "test": false,
+                "name": "call-merge.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/call-merge.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/stay-current-portrait@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/stay-current-portrait.js",
+                "test": false,
+                "name": "stay-current-portrait.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/stay-current-portrait.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/clear@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/clear.js",
+                "test": false,
+                "name": "clear.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/clear.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/inbox@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/inbox.js",
+                "test": false,
+                "name": "inbox.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/inbox.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/backspace@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/backspace.js",
+                "test": false,
+                "name": "backspace.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/backspace.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/sort@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/sort.js",
+                "test": false,
+                "name": "sort.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/sort.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/stay-current-landscape@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/stay-current-landscape.js",
+                "test": false,
+                "name": "stay-current-landscape.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/stay-current-landscape.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/live-help@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/live-help.js",
+                "test": false,
+                "name": "live-help.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/live-help.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/alert/error-outline@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/alert/error-outline.js",
+                "test": false,
+                "name": "error-outline.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/alert/error-outline.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/present-to-all@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/present-to-all.js",
+                "test": false,
+                "name": "present-to-all.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/present-to-all.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/clear-all@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/clear-all.js",
+                "test": false,
+                "name": "clear-all.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/clear-all.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/add-circle@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/add-circle.js",
+                "test": false,
+                "name": "add-circle.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/add-circle.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/vpn-key@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/vpn-key.js",
+                "test": false,
+                "name": "vpn-key.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/vpn-key.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/content-cut@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/content-cut.js",
+                "test": false,
+                "name": "content-cut.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/content-cut.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/phonelink-ring@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/phonelink-ring.js",
+                "test": false,
+                "name": "phonelink-ring.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/phonelink-ring.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/contact-phone@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/contact-phone.js",
+                "test": false,
+                "name": "contact-phone.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/contact-phone.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/archive@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/archive.js",
+                "test": false,
+                "name": "archive.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/archive.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/chat@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/chat.js",
+                "test": false,
+                "name": "chat.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/chat.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/dialer-sip@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/dialer-sip.js",
+                "test": false,
+                "name": "dialer-sip.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/dialer-sip.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/send@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/send.js",
+                "test": false,
+                "name": "send.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/send.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/call-missed@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/call-missed.js",
+                "test": false,
+                "name": "call-missed.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/call-missed.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/message@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/message.js",
+                "test": false,
+                "name": "message.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/message.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/voicemail@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/voicemail.js",
+                "test": false,
+                "name": "voicemail.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/voicemail.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/remove-circle@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/remove-circle.js",
+                "test": false,
+                "name": "remove-circle.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/remove-circle.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/screen-share@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/screen-share.js",
+                "test": false,
+                "name": "screen-share.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/screen-share.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/content-copy@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/content-copy.js",
+                "test": false,
+                "name": "content-copy.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/content-copy.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/low-priority@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/low-priority.js",
+                "test": false,
+                "name": "low-priority.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/low-priority.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/location-on@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/location-on.js",
+                "test": false,
+                "name": "location-on.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/location-on.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/chat-bubble@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/chat-bubble.js",
+                "test": false,
+                "name": "chat-bubble.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/chat-bubble.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/call-missed-outgoing@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/call-missed-outgoing.js",
+                "test": false,
+                "name": "call-missed-outgoing.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/call-missed-outgoing.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/content-paste@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/content-paste.js",
+                "test": false,
+                "name": "content-paste.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/content-paste.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/text-format@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/text-format.js",
+                "test": false,
+                "name": "text-format.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/text-format.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/block@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/block.js",
+                "test": false,
+                "name": "block.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/block.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/save@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/save.js",
+                "test": false,
+                "name": "save.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/save.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/stay-primary-landscape@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/stay-primary-landscape.js",
+                "test": false,
+                "name": "stay-primary-landscape.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/stay-primary-landscape.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/chat-bubble-outline@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/chat-bubble-outline.js",
+                "test": false,
+                "name": "chat-bubble-outline.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/chat-bubble-outline.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/remove@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/remove.js",
+                "test": false,
+                "name": "remove.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/remove.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/email@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/email.js",
+                "test": false,
+                "name": "email.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/email.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/next-week@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/next-week.js",
+                "test": false,
+                "name": "next-week.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/next-week.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/stay-primary-portrait@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/stay-primary-portrait.js",
+                "test": false,
+                "name": "stay-primary-portrait.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/stay-primary-portrait.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/forum@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/forum.js",
+                "test": false,
+                "name": "forum.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/forum.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/phone@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/phone.js",
+                "test": false,
+                "name": "phone.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/phone.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/reply@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/reply.js",
+                "test": false,
+                "name": "reply.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/reply.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/alert/add-alert@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/alert/add-alert.js",
+                "test": false,
+                "name": "add-alert.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/alert/add-alert.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/no-sim@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/no-sim.js",
+                "test": false,
+                "name": "no-sim.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/no-sim.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/location-off@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/location-off.js",
+                "test": false,
+                "name": "location-off.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/location-off.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/redo@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/redo.js",
+                "test": false,
+                "name": "redo.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/redo.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/add-box@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/add-box.js",
+                "test": false,
+                "name": "add-box.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/add-box.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/forward@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/forward.js",
+                "test": false,
+                "name": "forward.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/forward.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/alert/warning@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/alert/warning.js",
+                "test": false,
+                "name": "warning.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/alert/warning.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/import-export@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/import-export.js",
+                "test": false,
+                "name": "import-export.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/import-export.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/filter-list@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/filter-list.js",
+                "test": false,
+                "name": "filter-list.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/filter-list.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/font-download@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/font-download.js",
+                "test": false,
+                "name": "font-download.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/font-download.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/call-received@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/call-received.js",
+                "test": false,
+                "name": "call-received.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/call-received.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/unarchive@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/unarchive.js",
+                "test": false,
+                "name": "unarchive.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/unarchive.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/portable-wifi-off@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/portable-wifi-off.js",
+                "test": false,
+                "name": "portable-wifi-off.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/portable-wifi-off.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/call-split@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/call-split.js",
+                "test": false,
+                "name": "call-split.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/call-split.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/undo@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/undo.js",
+                "test": false,
+                "name": "undo.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/undo.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/gesture@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/gesture.js",
+                "test": false,
+                "name": "gesture.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/gesture.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/call@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/call.js",
+                "test": false,
+                "name": "call.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/call.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/link@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/link.js",
+                "test": false,
+                "name": "link.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/link.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/add-circle-outline@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/add-circle-outline.js",
+                "test": false,
+                "name": "add-circle-outline.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/add-circle-outline.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/flag@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/flag.js",
+                "test": false,
+                "name": "flag.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/flag.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/markunread@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/markunread.js",
+                "test": false,
+                "name": "markunread.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/markunread.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/drafts@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/drafts.js",
+                "test": false,
+                "name": "drafts.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/drafts.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/ring-volume@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/ring-volume.js",
+                "test": false,
+                "name": "ring-volume.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/ring-volume.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/comment@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/comment.js",
+                "test": false,
+                "name": "comment.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/comment.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/add@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/add.js",
+                "test": false,
+                "name": "add.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/add.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/import-contacts@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/import-contacts.js",
+                "test": false,
+                "name": "import-contacts.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/import-contacts.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/remove-circle-outline@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/remove-circle-outline.js",
+                "test": false,
+                "name": "remove-circle-outline.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/remove-circle-outline.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/call-end@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/call-end.js",
+                "test": false,
+                "name": "call-end.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/call-end.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/move-to-inbox@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/move-to-inbox.js",
+                "test": false,
+                "name": "move-to-inbox.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/move-to-inbox.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/stop-screen-share@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/stop-screen-share.js",
+                "test": false,
+                "name": "stop-screen-share.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/stop-screen-share.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/mail-outline@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/mail-outline.js",
+                "test": false,
+                "name": "mail-outline.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/mail-outline.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/contacts@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/contacts.js",
+                "test": false,
+                "name": "contacts.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/contacts.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/rss-feed@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/rss-feed.js",
+                "test": false,
+                "name": "rss-feed.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/rss-feed.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/mail@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/mail.js",
+                "test": false,
+                "name": "mail.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/mail.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/swap-calls@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/swap-calls.js",
+                "test": false,
+                "name": "swap-calls.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/swap-calls.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/create@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/create.js",
+                "test": false,
+                "name": "create.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/create.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/business@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/business.js",
+                "test": false,
+                "name": "business.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/business.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/phonelink-setup@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/phonelink-setup.js",
+                "test": false,
+                "name": "phonelink-setup.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/phonelink-setup.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/select-all@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/select-all.js",
+                "test": false,
+                "name": "select-all.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/select-all.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/weekend@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/weekend.js",
+                "test": false,
+                "name": "weekend.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/weekend.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/reply-all@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/reply-all.js",
+                "test": false,
+                "name": "reply-all.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/reply-all.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/report@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/report.js",
+                "test": false,
+                "name": "report.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/report.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/content/delete-sweep@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/content/delete-sweep.js",
+                "test": false,
+                "name": "delete-sweep.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/content/delete-sweep.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/textsms@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/textsms.js",
+                "test": false,
+                "name": "textsms.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/textsms.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/phonelink-lock@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/phonelink-lock.js",
+                "test": false,
+                "name": "phonelink-lock.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/phonelink-lock.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/speaker-phone@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/speaker-phone.js",
+                "test": false,
+                "name": "speaker-phone.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/speaker-phone.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/communication/call-made@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/communication/call-made.js",
+                "test": false,
+                "name": "call-made.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/communication/call-made.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/battery-50@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/battery-50.js",
+                "test": false,
+                "name": "battery-50.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/battery-50.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/gps-not-fixed@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/gps-not-fixed.js",
+                "test": false,
+                "name": "gps-not-fixed.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/gps-not-fixed.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/border-outer@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/border-outer.js",
+                "test": false,
+                "name": "border-outer.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/border-outer.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/screen-lock-rotation@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/screen-lock-rotation.js",
+                "test": false,
+                "name": "screen-lock-rotation.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/screen-lock-rotation.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/battery-60@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/battery-60.js",
+                "test": false,
+                "name": "battery-60.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/battery-60.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-cellular-connected-no-internet-0-bar@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-cellular-connected-no-internet-0-bar.js",
+                "test": false,
+                "name": "signal-cellular-connected-no-internet-0-bar.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-cellular-connected-no-internet-0-bar.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/publish@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/publish.js",
+                "test": false,
+                "name": "publish.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/publish.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-cellular-3-bar@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-cellular-3-bar.js",
+                "test": false,
+                "name": "signal-cellular-3-bar.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-cellular-3-bar.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/functions@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/functions.js",
+                "test": false,
+                "name": "functions.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/functions.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-wifi-2-bar-lock@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-wifi-2-bar-lock.js",
+                "test": false,
+                "name": "signal-wifi-2-bar-lock.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-wifi-2-bar-lock.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-bold@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-bold.js",
+                "test": false,
+                "name": "format-bold.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-bold.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/access-time@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/access-time.js",
+                "test": false,
+                "name": "access-time.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/access-time.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/battery-charging-full@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/battery-charging-full.js",
+                "test": false,
+                "name": "battery-charging-full.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/battery-charging-full.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/sd-storage@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/sd-storage.js",
+                "test": false,
+                "name": "sd-storage.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/sd-storage.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/border-color@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/border-color.js",
+                "test": false,
+                "name": "border-color.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/border-color.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-size@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-size.js",
+                "test": false,
+                "name": "format-size.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-size.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/battery-30@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/battery-30.js",
+                "test": false,
+                "name": "battery-30.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/battery-30.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/bluetooth-disabled@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/bluetooth-disabled.js",
+                "test": false,
+                "name": "bluetooth-disabled.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/bluetooth-disabled.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-cellular-connected-no-internet-1-bar@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-cellular-connected-no-internet-1-bar.js",
+                "test": false,
+                "name": "signal-cellular-connected-no-internet-1-bar.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-cellular-connected-no-internet-1-bar.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/developer-mode@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/developer-mode.js",
+                "test": false,
+                "name": "developer-mode.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/developer-mode.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/multiline-chart@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/multiline-chart.js",
+                "test": false,
+                "name": "multiline-chart.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/multiline-chart.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/battery-charging-80@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/battery-charging-80.js",
+                "test": false,
+                "name": "battery-charging-80.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/battery-charging-80.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/nfc@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/nfc.js",
+                "test": false,
+                "name": "nfc.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/nfc.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/gps-fixed@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/gps-fixed.js",
+                "test": false,
+                "name": "gps-fixed.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/gps-fixed.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/monetization-on@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/monetization-on.js",
+                "test": false,
+                "name": "monetization-on.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/monetization-on.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/data-usage@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/data-usage.js",
+                "test": false,
+                "name": "data-usage.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/data-usage.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-wifi-2-bar@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-wifi-2-bar.js",
+                "test": false,
+                "name": "signal-wifi-2-bar.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-wifi-2-bar.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/brightness-high@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/brightness-high.js",
+                "test": false,
+                "name": "brightness-high.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/brightness-high.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/battery-charging-50@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/battery-charging-50.js",
+                "test": false,
+                "name": "battery-charging-50.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/battery-charging-50.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/airplanemode-active@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/airplanemode-active.js",
+                "test": false,
+                "name": "airplanemode-active.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/airplanemode-active.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/wifi-lock@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/wifi-lock.js",
+                "test": false,
+                "name": "wifi-lock.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/wifi-lock.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/money-off@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/money-off.js",
+                "test": false,
+                "name": "money-off.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/money-off.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/battery-charging-90@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/battery-charging-90.js",
+                "test": false,
+                "name": "battery-charging-90.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/battery-charging-90.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-color-reset@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-color-reset.js",
+                "test": false,
+                "name": "format-color-reset.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-color-reset.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-textdirection-l-to-r@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-textdirection-l-to-r.js",
+                "test": false,
+                "name": "format-textdirection-l-to-r.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-textdirection-l-to-r.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-align-right@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-align-right.js",
+                "test": false,
+                "name": "format-align-right.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-align-right.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/battery-alert@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/battery-alert.js",
+                "test": false,
+                "name": "battery-alert.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/battery-alert.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-wifi-off@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-wifi-off.js",
+                "test": false,
+                "name": "signal-wifi-off.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-wifi-off.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/access-alarms@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/access-alarms.js",
+                "test": false,
+                "name": "access-alarms.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/access-alarms.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/battery-unknown@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/battery-unknown.js",
+                "test": false,
+                "name": "battery-unknown.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/battery-unknown.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-strikethrough@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-strikethrough.js",
+                "test": false,
+                "name": "format-strikethrough.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-strikethrough.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/bubble-chart@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/bubble-chart.js",
+                "test": false,
+                "name": "bubble-chart.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/bubble-chart.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-cellular-null@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-cellular-null.js",
+                "test": false,
+                "name": "signal-cellular-null.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-cellular-null.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/mode-edit@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/mode-edit.js",
+                "test": false,
+                "name": "mode-edit.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/mode-edit.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-indent-decrease@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-indent-decrease.js",
+                "test": false,
+                "name": "format-indent-decrease.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-indent-decrease.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/screen-rotation@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/screen-rotation.js",
+                "test": false,
+                "name": "screen-rotation.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/screen-rotation.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-wifi-3-bar-lock@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-wifi-3-bar-lock.js",
+                "test": false,
+                "name": "signal-wifi-3-bar-lock.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-wifi-3-bar-lock.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-cellular-no-sim@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-cellular-no-sim.js",
+                "test": false,
+                "name": "signal-cellular-no-sim.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-cellular-no-sim.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/bluetooth-connected@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/bluetooth-connected.js",
+                "test": false,
+                "name": "bluetooth-connected.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/bluetooth-connected.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-wifi-4-bar-lock@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-wifi-4-bar-lock.js",
+                "test": false,
+                "name": "signal-wifi-4-bar-lock.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-wifi-4-bar-lock.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/graphic-eq@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/graphic-eq.js",
+                "test": false,
+                "name": "graphic-eq.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/graphic-eq.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-cellular-2-bar@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-cellular-2-bar.js",
+                "test": false,
+                "name": "signal-cellular-2-bar.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-cellular-2-bar.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/usb@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/usb.js",
+                "test": false,
+                "name": "usb.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/usb.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/pie-chart-outlined@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/pie-chart-outlined.js",
+                "test": false,
+                "name": "pie-chart-outlined.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/pie-chart-outlined.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/border-inner@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/border-inner.js",
+                "test": false,
+                "name": "border-inner.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/border-inner.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/highlight@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/highlight.js",
+                "test": false,
+                "name": "highlight.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/highlight.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/location-disabled@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/location-disabled.js",
+                "test": false,
+                "name": "location-disabled.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/location-disabled.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/border-vertical@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/border-vertical.js",
+                "test": false,
+                "name": "border-vertical.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/border-vertical.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-color-text@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-color-text.js",
+                "test": false,
+                "name": "format-color-text.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-color-text.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-quote@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-quote.js",
+                "test": false,
+                "name": "format-quote.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-quote.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/vertical-align-center@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/vertical-align-center.js",
+                "test": false,
+                "name": "vertical-align-center.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/vertical-align-center.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/access-alarm@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/access-alarm.js",
+                "test": false,
+                "name": "access-alarm.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/access-alarm.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-align-justify@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-align-justify.js",
+                "test": false,
+                "name": "format-align-justify.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-align-justify.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-wifi-0-bar@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-wifi-0-bar.js",
+                "test": false,
+                "name": "signal-wifi-0-bar.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-wifi-0-bar.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/wifi-tethering@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/wifi-tethering.js",
+                "test": false,
+                "name": "wifi-tethering.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/wifi-tethering.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-indent-increase@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-indent-increase.js",
+                "test": false,
+                "name": "format-indent-increase.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-indent-increase.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/insert-photo@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/insert-photo.js",
+                "test": false,
+                "name": "insert-photo.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/insert-photo.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/border-horizontal@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/border-horizontal.js",
+                "test": false,
+                "name": "border-horizontal.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/border-horizontal.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/insert-drive-file@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/insert-drive-file.js",
+                "test": false,
+                "name": "insert-drive-file.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/insert-drive-file.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-cellular-connected-no-internet-3-bar@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-cellular-connected-no-internet-3-bar.js",
+                "test": false,
+                "name": "signal-cellular-connected-no-internet-3-bar.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-cellular-connected-no-internet-3-bar.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-shapes@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-shapes.js",
+                "test": false,
+                "name": "format-shapes.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-shapes.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/brightness-medium@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/brightness-medium.js",
+                "test": false,
+                "name": "brightness-medium.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/brightness-medium.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/screen-lock-portrait@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/screen-lock-portrait.js",
+                "test": false,
+                "name": "screen-lock-portrait.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/screen-lock-portrait.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-cellular-connected-no-internet-4-bar@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-cellular-connected-no-internet-4-bar.js",
+                "test": false,
+                "name": "signal-cellular-connected-no-internet-4-bar.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-cellular-connected-no-internet-4-bar.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-cellular-1-bar@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-cellular-1-bar.js",
+                "test": false,
+                "name": "signal-cellular-1-bar.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-cellular-1-bar.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/widgets@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/widgets.js",
+                "test": false,
+                "name": "widgets.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/widgets.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/storage@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/storage.js",
+                "test": false,
+                "name": "storage.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/storage.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/brightness-low@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/brightness-low.js",
+                "test": false,
+                "name": "brightness-low.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/brightness-low.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/battery-80@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/battery-80.js",
+                "test": false,
+                "name": "battery-80.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/battery-80.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-wifi-3-bar@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-wifi-3-bar.js",
+                "test": false,
+                "name": "signal-wifi-3-bar.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-wifi-3-bar.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/battery-20@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/battery-20.js",
+                "test": false,
+                "name": "battery-20.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/battery-20.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/border-all@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/border-all.js",
+                "test": false,
+                "name": "border-all.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/border-all.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/battery-charging-20@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/battery-charging-20.js",
+                "test": false,
+                "name": "battery-charging-20.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/battery-charging-20.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/devices@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/devices.js",
+                "test": false,
+                "name": "devices.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/devices.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/vertical-align-top@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/vertical-align-top.js",
+                "test": false,
+                "name": "vertical-align-top.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/vertical-align-top.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/vertical-align-bottom@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/vertical-align-bottom.js",
+                "test": false,
+                "name": "vertical-align-bottom.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/vertical-align-bottom.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/battery-std@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/battery-std.js",
+                "test": false,
+                "name": "battery-std.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/battery-std.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-textdirection-r-to-l@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-textdirection-r-to-l.js",
+                "test": false,
+                "name": "format-textdirection-r-to-l.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-textdirection-r-to-l.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-align-left@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-align-left.js",
+                "test": false,
+                "name": "format-align-left.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-align-left.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/attach-file@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/attach-file.js",
+                "test": false,
+                "name": "attach-file.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/attach-file.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/border-style@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/border-style.js",
+                "test": false,
+                "name": "border-style.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/border-style.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-cellular-0-bar@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-cellular-0-bar.js",
+                "test": false,
+                "name": "signal-cellular-0-bar.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-cellular-0-bar.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-cellular-connected-no-internet-2-bar@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-cellular-connected-no-internet-2-bar.js",
+                "test": false,
+                "name": "signal-cellular-connected-no-internet-2-bar.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-cellular-connected-no-internet-2-bar.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/gps-off@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/gps-off.js",
+                "test": false,
+                "name": "gps-off.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/gps-off.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/insert-invitation@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/insert-invitation.js",
+                "test": false,
+                "name": "insert-invitation.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/insert-invitation.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-color-fill@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-color-fill.js",
+                "test": false,
+                "name": "format-color-fill.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-color-fill.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/insert-emoticon@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/insert-emoticon.js",
+                "test": false,
+                "name": "insert-emoticon.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/insert-emoticon.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-cellular-off@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-cellular-off.js",
+                "test": false,
+                "name": "signal-cellular-off.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-cellular-off.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/pie-chart@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/pie-chart.js",
+                "test": false,
+                "name": "pie-chart.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/pie-chart.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/bluetooth-searching@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/bluetooth-searching.js",
+                "test": false,
+                "name": "bluetooth-searching.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/bluetooth-searching.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/text-fields@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/text-fields.js",
+                "test": false,
+                "name": "text-fields.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/text-fields.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/add-alarm@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/add-alarm.js",
+                "test": false,
+                "name": "add-alarm.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/add-alarm.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-align-center@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-align-center.js",
+                "test": false,
+                "name": "format-align-center.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-align-center.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/wrap-text@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/wrap-text.js",
+                "test": false,
+                "name": "wrap-text.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/wrap-text.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/battery-charging-30@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/battery-charging-30.js",
+                "test": false,
+                "name": "battery-charging-30.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/battery-charging-30.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/attach-money@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/attach-money.js",
+                "test": false,
+                "name": "attach-money.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/attach-money.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/title@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/title.js",
+                "test": false,
+                "name": "title.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/title.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/insert-chart@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/insert-chart.js",
+                "test": false,
+                "name": "insert-chart.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/insert-chart.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-underlined@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-underlined.js",
+                "test": false,
+                "name": "format-underlined.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-underlined.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/show-chart@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/show-chart.js",
+                "test": false,
+                "name": "show-chart.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/show-chart.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-list-numbered@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-list-numbered.js",
+                "test": false,
+                "name": "format-list-numbered.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-list-numbered.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/dvr@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/dvr.js",
+                "test": false,
+                "name": "dvr.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/dvr.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/merge-type@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/merge-type.js",
+                "test": false,
+                "name": "merge-type.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/merge-type.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-list-bulleted@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-list-bulleted.js",
+                "test": false,
+                "name": "format-list-bulleted.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-list-bulleted.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-paint@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-paint.js",
+                "test": false,
+                "name": "format-paint.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-paint.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/linear-scale@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/linear-scale.js",
+                "test": false,
+                "name": "linear-scale.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/linear-scale.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-wifi-4-bar@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-wifi-4-bar.js",
+                "test": false,
+                "name": "signal-wifi-4-bar.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-wifi-4-bar.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/short-text@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/short-text.js",
+                "test": false,
+                "name": "short-text.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/short-text.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/strikethrough-s@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/strikethrough-s.js",
+                "test": false,
+                "name": "strikethrough-s.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/strikethrough-s.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-clear@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-clear.js",
+                "test": false,
+                "name": "format-clear.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-clear.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-wifi-1-bar-lock@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-wifi-1-bar-lock.js",
+                "test": false,
+                "name": "signal-wifi-1-bar-lock.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-wifi-1-bar-lock.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/drag-handle@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/drag-handle.js",
+                "test": false,
+                "name": "drag-handle.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/drag-handle.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/insert-link@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/insert-link.js",
+                "test": false,
+                "name": "insert-link.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/insert-link.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/border-top@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/border-top.js",
+                "test": false,
+                "name": "border-top.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/border-top.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/wallpaper@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/wallpaper.js",
+                "test": false,
+                "name": "wallpaper.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/wallpaper.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/border-right@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/border-right.js",
+                "test": false,
+                "name": "border-right.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/border-right.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/screen-lock-landscape@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/screen-lock-landscape.js",
+                "test": false,
+                "name": "screen-lock-landscape.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/screen-lock-landscape.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/airplanemode-inactive@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/airplanemode-inactive.js",
+                "test": false,
+                "name": "airplanemode-inactive.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/airplanemode-inactive.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/border-left@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/border-left.js",
+                "test": false,
+                "name": "border-left.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/border-left.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/battery-full@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/battery-full.js",
+                "test": false,
+                "name": "battery-full.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/battery-full.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/settings-system-daydream@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/settings-system-daydream.js",
+                "test": false,
+                "name": "settings-system-daydream.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/settings-system-daydream.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/brightness-auto@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/brightness-auto.js",
+                "test": false,
+                "name": "brightness-auto.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/brightness-auto.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/location-searching@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/location-searching.js",
+                "test": false,
+                "name": "location-searching.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/location-searching.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-cellular-4-bar@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-cellular-4-bar.js",
+                "test": false,
+                "name": "signal-cellular-4-bar.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-cellular-4-bar.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/border-clear@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/border-clear.js",
+                "test": false,
+                "name": "border-clear.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/border-clear.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/battery-90@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/battery-90.js",
+                "test": false,
+                "name": "battery-90.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/battery-90.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/network-cell@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/network-cell.js",
+                "test": false,
+                "name": "network-cell.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/network-cell.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/border-bottom@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/border-bottom.js",
+                "test": false,
+                "name": "border-bottom.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/border-bottom.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/insert-comment@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/insert-comment.js",
+                "test": false,
+                "name": "insert-comment.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/insert-comment.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/battery-charging-60@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/battery-charging-60.js",
+                "test": false,
+                "name": "battery-charging-60.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/battery-charging-60.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/signal-wifi-1-bar@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/signal-wifi-1-bar.js",
+                "test": false,
+                "name": "signal-wifi-1-bar.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/signal-wifi-1-bar.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-italic@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-italic.js",
+                "test": false,
+                "name": "format-italic.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-italic.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/format-line-spacing@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/format-line-spacing.js",
+                "test": false,
+                "name": "format-line-spacing.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/format-line-spacing.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/mode-comment@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/mode-comment.js",
+                "test": false,
+                "name": "mode-comment.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/mode-comment.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/bluetooth@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/bluetooth.js",
+                "test": false,
+                "name": "bluetooth.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/bluetooth.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/editor/space-bar@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/editor/space-bar.js",
+                "test": false,
+                "name": "space-bar.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/editor/space-bar.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/device/network-wifi@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/device/network-wifi.js",
+                "test": false,
+                "name": "network-wifi.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/device/network-wifi.js",
+        "origin": "AUTHORED"
     }
 }
