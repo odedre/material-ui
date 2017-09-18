@@ -3,8 +3,16 @@
         "compiler": "bit.envs/compilers/react@3",
         "tester": "bit.envs/testers/mocha-react@3"
     },
-    "dependencies": {},
-    "packageDependencies": {
-        "chai": "3.5.0"
+    "dependencies": {
+        "odedreuveny.material-ui-icons/image/filter-vintage": "1",
+        "odedreuveny.material-ui-icons/image/filter-9-plus": "1",
+        "odedreuveny.material-ui-icons/image/movie-filter": "1",
+        "odedreuveny.material-ui-icons/image/camera-front": "1",
+        "odedreuveny.material-ui-icons/image/wb-auto": "1",
+        "odedreuveny.material-ui-icons/navigation/unfold-less": "1"
+    },
+    "structure": "components/{namespace}/{name}",
+    "dist": {
+        "target": "dist"
     }
-}   
+}

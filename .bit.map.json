@@ -15792,8 +15792,8 @@
                 "name": "add-a-photo.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/add-a-photo.js"
+        "mainFile": "src/svg-icons/image/add-a-photo.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/add-to-photos": {
         "files": [
@@ -15803,8 +15803,8 @@
                 "name": "add-to-photos.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/add-to-photos.js"
+        "mainFile": "src/svg-icons/image/add-to-photos.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/adjust": {
         "files": [
@@ -15814,8 +15814,8 @@
                 "name": "adjust.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/adjust.js"
+        "mainFile": "src/svg-icons/image/adjust.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/assistant-photo": {
         "files": [
@@ -15825,8 +15825,8 @@
                 "name": "assistant-photo.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/assistant-photo.js"
+        "mainFile": "src/svg-icons/image/assistant-photo.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/assistant": {
         "files": [
@@ -15836,8 +15836,8 @@
                 "name": "assistant.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/assistant.js"
+        "mainFile": "src/svg-icons/image/assistant.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/audiotrack": {
         "files": [
@@ -15847,8 +15847,8 @@
                 "name": "audiotrack.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/audiotrack.js"
+        "mainFile": "src/svg-icons/image/audiotrack.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/blur-circular@1": {
         "files": [
@@ -15858,8 +15858,8 @@
                 "name": "blur-circular.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/blur-circular.js"
+        "mainFile": "src/svg-icons/image/blur-circular.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/blur-linear@1": {
         "files": [
@@ -15869,8 +15869,8 @@
                 "name": "blur-linear.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/blur-linear.js"
+        "mainFile": "src/svg-icons/image/blur-linear.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/blur-off@1": {
         "files": [
@@ -15880,8 +15880,8 @@
                 "name": "blur-off.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/blur-off.js"
+        "mainFile": "src/svg-icons/image/blur-off.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/blur-on@1": {
         "files": [
@@ -15891,8 +15891,8 @@
                 "name": "blur-on.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/blur-on.js"
+        "mainFile": "src/svg-icons/image/blur-on.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/brightness-1@1": {
         "files": [
@@ -15902,8 +15902,8 @@
                 "name": "brightness-1.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/brightness-1.js"
+        "mainFile": "src/svg-icons/image/brightness-1.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/brightness-2@1": {
         "files": [
@@ -15913,8 +15913,8 @@
                 "name": "brightness-2.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/brightness-2.js"
+        "mainFile": "src/svg-icons/image/brightness-2.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/brightness-3@1": {
         "files": [
@@ -15924,8 +15924,8 @@
                 "name": "brightness-3.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/brightness-3.js"
+        "mainFile": "src/svg-icons/image/brightness-3.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/brightness-4@1": {
         "files": [
@@ -15935,8 +15935,8 @@
                 "name": "brightness-4.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/brightness-4.js"
+        "mainFile": "src/svg-icons/image/brightness-4.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/brightness-5@1": {
         "files": [
@@ -15946,8 +15946,24 @@
                 "name": "brightness-5.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/brightness-5.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/brightness-5.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/brightness-6@1": {
         "files": [
@@ -15957,8 +15973,8 @@
                 "name": "brightness-6.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/brightness-6.js"
+        "mainFile": "src/svg-icons/image/brightness-6.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/brightness-7@1": {
         "files": [
@@ -15968,8 +15984,24 @@
                 "name": "brightness-7.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/brightness-7.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/brightness-7.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/broken-image@1": {
         "files": [
@@ -15979,8 +16011,24 @@
                 "name": "broken-image.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/broken-image.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/broken-image.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/brush@1": {
         "files": [
@@ -15990,8 +16038,8 @@
                 "name": "brush.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/brush.js"
+        "mainFile": "src/svg-icons/image/brush.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/burst-mode@1": {
         "files": [
@@ -16001,8 +16049,8 @@
                 "name": "burst-mode.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/burst-mode.js"
+        "mainFile": "src/svg-icons/image/burst-mode.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/camera-alt@1": {
         "files": [
@@ -16012,8 +16060,8 @@
                 "name": "camera-alt.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/camera-alt.js"
+        "mainFile": "src/svg-icons/image/camera-alt.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/camera-front@1": {
         "files": [
@@ -16023,8 +16071,24 @@
                 "name": "camera-front.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/camera-front.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/camera-front.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/camera-rear@1": {
         "files": [
@@ -16034,8 +16098,8 @@
                 "name": "camera-rear.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/camera-rear.js"
+        "mainFile": "src/svg-icons/image/camera-rear.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/camera-roll@1": {
         "files": [
@@ -16045,8 +16109,8 @@
                 "name": "camera-roll.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/camera-roll.js"
+        "mainFile": "src/svg-icons/image/camera-roll.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/camera@1": {
         "files": [
@@ -16056,8 +16120,8 @@
                 "name": "camera.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/camera.js"
+        "mainFile": "src/svg-icons/image/camera.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/center-focus-strong@1": {
         "files": [
@@ -16067,8 +16131,24 @@
                 "name": "center-focus-strong.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/center-focus-strong.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/center-focus-strong.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/center-focus-weak@1": {
         "files": [
@@ -16078,8 +16158,8 @@
                 "name": "center-focus-weak.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/center-focus-weak.js"
+        "mainFile": "src/svg-icons/image/center-focus-weak.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/collections-bookmark@1": {
         "files": [
@@ -16089,8 +16169,8 @@
                 "name": "collections-bookmark.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/collections-bookmark.js"
+        "mainFile": "src/svg-icons/image/collections-bookmark.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/collections@1": {
         "files": [
@@ -16100,8 +16180,8 @@
                 "name": "collections.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/collections.js"
+        "mainFile": "src/svg-icons/image/collections.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/color-lens@1": {
         "files": [
@@ -16111,8 +16191,8 @@
                 "name": "color-lens.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/color-lens.js"
+        "mainFile": "src/svg-icons/image/color-lens.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/colorize@1": {
         "files": [
@@ -16122,8 +16202,8 @@
                 "name": "colorize.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/colorize.js"
+        "mainFile": "src/svg-icons/image/colorize.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/compare@1": {
         "files": [
@@ -16133,8 +16213,8 @@
                 "name": "compare.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/compare.js"
+        "mainFile": "src/svg-icons/image/compare.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/control-point-duplicate@1": {
         "files": [
@@ -16144,8 +16224,8 @@
                 "name": "control-point-duplicate.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/control-point-duplicate.js"
+        "mainFile": "src/svg-icons/image/control-point-duplicate.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/control-point@1": {
         "files": [
@@ -16155,8 +16235,8 @@
                 "name": "control-point.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/control-point.js"
+        "mainFile": "src/svg-icons/image/control-point.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/crop-16-9@1": {
         "files": [
@@ -16166,8 +16246,8 @@
                 "name": "crop-16-9.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/crop-16-9.js"
+        "mainFile": "src/svg-icons/image/crop-16-9.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/crop-3-2@1": {
         "files": [
@@ -16177,8 +16257,8 @@
                 "name": "crop-3-2.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/crop-3-2.js"
+        "mainFile": "src/svg-icons/image/crop-3-2.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/crop-5-4@1": {
         "files": [
@@ -16188,8 +16268,8 @@
                 "name": "crop-5-4.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/crop-5-4.js"
+        "mainFile": "src/svg-icons/image/crop-5-4.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/crop-7-5@1": {
         "files": [
@@ -16199,8 +16279,8 @@
                 "name": "crop-7-5.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/crop-7-5.js"
+        "mainFile": "src/svg-icons/image/crop-7-5.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/crop-din@1": {
         "files": [
@@ -16210,8 +16290,8 @@
                 "name": "crop-din.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/crop-din.js"
+        "mainFile": "src/svg-icons/image/crop-din.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/crop-free@1": {
         "files": [
@@ -16221,8 +16301,8 @@
                 "name": "crop-free.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/crop-free.js"
+        "mainFile": "src/svg-icons/image/crop-free.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/crop-landscape@1": {
         "files": [
@@ -16232,8 +16312,8 @@
                 "name": "crop-landscape.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/crop-landscape.js"
+        "mainFile": "src/svg-icons/image/crop-landscape.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/crop-original@1": {
         "files": [
@@ -16243,8 +16323,8 @@
                 "name": "crop-original.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/crop-original.js"
+        "mainFile": "src/svg-icons/image/crop-original.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/crop-portrait@1": {
         "files": [
@@ -16254,8 +16334,8 @@
                 "name": "crop-portrait.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/crop-portrait.js"
+        "mainFile": "src/svg-icons/image/crop-portrait.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/crop-rotate@1": {
         "files": [
@@ -16265,8 +16345,8 @@
                 "name": "crop-rotate.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/crop-rotate.js"
+        "mainFile": "src/svg-icons/image/crop-rotate.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/crop-square@1": {
         "files": [
@@ -16276,8 +16356,24 @@
                 "name": "crop-square.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/crop-square.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/crop-square.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/crop@1": {
         "files": [
@@ -16287,8 +16383,8 @@
                 "name": "crop.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/crop.js"
+        "mainFile": "src/svg-icons/image/crop.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/dehaze@1": {
         "files": [
@@ -16298,8 +16394,8 @@
                 "name": "dehaze.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/dehaze.js"
+        "mainFile": "src/svg-icons/image/dehaze.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/details@1": {
         "files": [
@@ -16309,8 +16405,24 @@
                 "name": "details.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/details.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/details.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/edit@1": {
         "files": [
@@ -16320,8 +16432,8 @@
                 "name": "edit.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/edit.js"
+        "mainFile": "src/svg-icons/image/edit.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/exposure-neg-1@1": {
         "files": [
@@ -16331,8 +16443,24 @@
                 "name": "exposure-neg-1.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/exposure-neg-1.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/exposure-neg-1.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/exposure-neg-2@1": {
         "files": [
@@ -16342,8 +16470,8 @@
                 "name": "exposure-neg-2.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/exposure-neg-2.js"
+        "mainFile": "src/svg-icons/image/exposure-neg-2.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/exposure-plus-1@1": {
         "files": [
@@ -16353,8 +16481,8 @@
                 "name": "exposure-plus-1.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/exposure-plus-1.js"
+        "mainFile": "src/svg-icons/image/exposure-plus-1.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/exposure-plus-2@1": {
         "files": [
@@ -16364,8 +16492,8 @@
                 "name": "exposure-plus-2.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/exposure-plus-2.js"
+        "mainFile": "src/svg-icons/image/exposure-plus-2.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/exposure-zero@1": {
         "files": [
@@ -16375,8 +16503,24 @@
                 "name": "exposure-zero.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/exposure-zero.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/exposure-zero.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/exposure@1": {
         "files": [
@@ -16386,8 +16530,8 @@
                 "name": "exposure.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/exposure.js"
+        "mainFile": "src/svg-icons/image/exposure.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/filter-1@1": {
         "files": [
@@ -16397,8 +16541,24 @@
                 "name": "filter-1.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/filter-1.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/filter-1.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/filter-2@1": {
         "files": [
@@ -16408,8 +16568,24 @@
                 "name": "filter-2.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/filter-2.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/filter-2.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/filter-3@1": {
         "files": [
@@ -16419,8 +16595,24 @@
                 "name": "filter-3.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/filter-3.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/filter-3.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/filter-4@1": {
         "files": [
@@ -16430,8 +16622,24 @@
                 "name": "filter-4.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/filter-4.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/filter-4.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/filter-5@1": {
         "files": [
@@ -16441,8 +16649,24 @@
                 "name": "filter-5.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/filter-5.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/filter-5.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/filter-6@1": {
         "files": [
@@ -16452,8 +16676,8 @@
                 "name": "filter-6.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/filter-6.js"
+        "mainFile": "src/svg-icons/image/filter-6.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/filter-7@1": {
         "files": [
@@ -16463,8 +16687,8 @@
                 "name": "filter-7.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/filter-7.js"
+        "mainFile": "src/svg-icons/image/filter-7.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/filter-8@1": {
         "files": [
@@ -16474,8 +16698,8 @@
                 "name": "filter-8.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/filter-8.js"
+        "mainFile": "src/svg-icons/image/filter-8.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/filter-9-plus@1": {
         "files": [
@@ -16485,8 +16709,24 @@
                 "name": "filter-9-plus.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/filter-9-plus.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/filter-9-plus.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/filter-9@1": {
         "files": [
@@ -16496,8 +16736,24 @@
                 "name": "filter-9.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/filter-9.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/filter-9.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/filter-b-and-w@1": {
         "files": [
@@ -16507,8 +16763,8 @@
                 "name": "filter-b-and-w.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/filter-b-and-w.js"
+        "mainFile": "src/svg-icons/image/filter-b-and-w.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/filter-center-focus@1": {
         "files": [
@@ -16518,8 +16774,24 @@
                 "name": "filter-center-focus.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/filter-center-focus.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/filter-center-focus.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/filter-drama@1": {
         "files": [
@@ -16529,8 +16801,8 @@
                 "name": "filter-drama.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/filter-drama.js"
+        "mainFile": "src/svg-icons/image/filter-drama.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/filter-frames@1": {
         "files": [
@@ -16540,19 +16812,8 @@
                 "name": "filter-frames.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/filter-frames.js"
-    },
-    "odedreuveny.material-ui-icons/image/filter-hdr@1": {
-        "files": [
-            {
-                "relativePath": "src/svg-icons/image/filter-hdr.js",
-                "test": false,
-                "name": "filter-hdr.js"
-            }
-        ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/filter-hdr.js"
+        "mainFile": "src/svg-icons/image/filter-frames.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/filter-none@1": {
         "files": [
@@ -16562,8 +16823,8 @@
                 "name": "filter-none.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/filter-none.js"
+        "mainFile": "src/svg-icons/image/filter-none.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/filter-tilt-shift@1": {
         "files": [
@@ -16573,8 +16834,8 @@
                 "name": "filter-tilt-shift.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/filter-tilt-shift.js"
+        "mainFile": "src/svg-icons/image/filter-tilt-shift.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/filter-vintage@1": {
         "files": [
@@ -16584,8 +16845,24 @@
                 "name": "filter-vintage.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/filter-vintage.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/filter-vintage.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/filter@1": {
         "files": [
@@ -16595,8 +16872,24 @@
                 "name": "filter.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/filter.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/filter.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/flare@1": {
         "files": [
@@ -16606,8 +16899,8 @@
                 "name": "flare.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/flare.js"
+        "mainFile": "src/svg-icons/image/flare.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/flash-auto@1": {
         "files": [
@@ -16617,8 +16910,8 @@
                 "name": "flash-auto.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/flash-auto.js"
+        "mainFile": "src/svg-icons/image/flash-auto.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/flash-off@1": {
         "files": [
@@ -16628,8 +16921,8 @@
                 "name": "flash-off.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/flash-off.js"
+        "mainFile": "src/svg-icons/image/flash-off.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/flash-on@1": {
         "files": [
@@ -16639,8 +16932,8 @@
                 "name": "flash-on.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/flash-on.js"
+        "mainFile": "src/svg-icons/image/flash-on.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/flip@1": {
         "files": [
@@ -16650,8 +16943,24 @@
                 "name": "flip.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/flip.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/flip.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/gradient@1": {
         "files": [
@@ -16661,8 +16970,8 @@
                 "name": "gradient.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/gradient.js"
+        "mainFile": "src/svg-icons/image/gradient.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/grain@1": {
         "files": [
@@ -16672,8 +16981,8 @@
                 "name": "grain.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/grain.js"
+        "mainFile": "src/svg-icons/image/grain.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/grid-off@1": {
         "files": [
@@ -16683,8 +16992,8 @@
                 "name": "grid-off.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/grid-off.js"
+        "mainFile": "src/svg-icons/image/grid-off.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/grid-on@1": {
         "files": [
@@ -16694,8 +17003,24 @@
                 "name": "grid-on.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/grid-on.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/grid-on.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/hdr-off@1": {
         "files": [
@@ -16705,8 +17030,8 @@
                 "name": "hdr-off.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/hdr-off.js"
+        "mainFile": "src/svg-icons/image/hdr-off.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/hdr-on@1": {
         "files": [
@@ -16716,8 +17041,24 @@
                 "name": "hdr-on.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/hdr-on.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/hdr-on.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/hdr-strong@1": {
         "files": [
@@ -16727,8 +17068,8 @@
                 "name": "hdr-strong.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/hdr-strong.js"
+        "mainFile": "src/svg-icons/image/hdr-strong.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/hdr-weak@1": {
         "files": [
@@ -16738,8 +17079,8 @@
                 "name": "hdr-weak.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/hdr-weak.js"
+        "mainFile": "src/svg-icons/image/hdr-weak.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/healing@1": {
         "files": [
@@ -16749,8 +17090,8 @@
                 "name": "healing.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/healing.js"
+        "mainFile": "src/svg-icons/image/healing.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/image-aspect-ratio@1": {
         "files": [
@@ -16760,8 +17101,8 @@
                 "name": "image-aspect-ratio.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/image-aspect-ratio.js"
+        "mainFile": "src/svg-icons/image/image-aspect-ratio.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/image@1": {
         "files": [
@@ -16771,8 +17112,8 @@
                 "name": "image.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/image.js"
+        "mainFile": "src/svg-icons/image/image.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/iso@1": {
         "files": [
@@ -16782,8 +17123,8 @@
                 "name": "iso.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/iso.js"
+        "mainFile": "src/svg-icons/image/iso.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/landscape@1": {
         "files": [
@@ -16793,8 +17134,8 @@
                 "name": "landscape.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/landscape.js"
+        "mainFile": "src/svg-icons/image/landscape.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/leak-add@1": {
         "files": [
@@ -16804,8 +17145,8 @@
                 "name": "leak-add.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/leak-add.js"
+        "mainFile": "src/svg-icons/image/leak-add.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/leak-remove@1": {
         "files": [
@@ -16815,8 +17156,24 @@
                 "name": "leak-remove.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/leak-remove.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/leak-remove.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/lens@1": {
         "files": [
@@ -16826,8 +17183,24 @@
                 "name": "lens.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/lens.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/lens.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/linked-camera@1": {
         "files": [
@@ -16837,8 +17210,8 @@
                 "name": "linked-camera.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/linked-camera.js"
+        "mainFile": "src/svg-icons/image/linked-camera.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/looks-3@1": {
         "files": [
@@ -16848,8 +17221,8 @@
                 "name": "looks-3.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/looks-3.js"
+        "mainFile": "src/svg-icons/image/looks-3.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/looks-4@1": {
         "files": [
@@ -16859,8 +17232,8 @@
                 "name": "looks-4.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/looks-4.js"
+        "mainFile": "src/svg-icons/image/looks-4.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/looks-5@1": {
         "files": [
@@ -16870,8 +17243,8 @@
                 "name": "looks-5.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/looks-5.js"
+        "mainFile": "src/svg-icons/image/looks-5.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/looks-6@1": {
         "files": [
@@ -16881,8 +17254,8 @@
                 "name": "looks-6.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/looks-6.js"
+        "mainFile": "src/svg-icons/image/looks-6.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/looks-one@1": {
         "files": [
@@ -16892,8 +17265,8 @@
                 "name": "looks-one.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/looks-one.js"
+        "mainFile": "src/svg-icons/image/looks-one.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/looks-two@1": {
         "files": [
@@ -16903,8 +17276,24 @@
                 "name": "looks-two.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/looks-two.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/looks-two.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/looks@1": {
         "files": [
@@ -16914,8 +17303,8 @@
                 "name": "looks.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/looks.js"
+        "mainFile": "src/svg-icons/image/looks.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/loupe@1": {
         "files": [
@@ -16925,8 +17314,8 @@
                 "name": "loupe.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/loupe.js"
+        "mainFile": "src/svg-icons/image/loupe.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/monochrome-photos@1": {
         "files": [
@@ -16936,8 +17325,8 @@
                 "name": "monochrome-photos.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/monochrome-photos.js"
+        "mainFile": "src/svg-icons/image/monochrome-photos.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/movie-creation@1": {
         "files": [
@@ -16947,8 +17336,24 @@
                 "name": "movie-creation.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/movie-creation.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/movie-creation.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/movie-filter@1": {
         "files": [
@@ -16958,8 +17363,24 @@
                 "name": "movie-filter.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/movie-filter.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/movie-filter.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/music-note@1": {
         "files": [
@@ -16969,8 +17390,8 @@
                 "name": "music-note.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/music-note.js"
+        "mainFile": "src/svg-icons/image/music-note.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/nature-people@1": {
         "files": [
@@ -16980,8 +17401,8 @@
                 "name": "nature-people.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/nature-people.js"
+        "mainFile": "src/svg-icons/image/nature-people.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/nature@1": {
         "files": [
@@ -16991,8 +17412,8 @@
                 "name": "nature.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/nature.js"
+        "mainFile": "src/svg-icons/image/nature.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/navigate-before@1": {
         "files": [
@@ -17002,8 +17423,8 @@
                 "name": "navigate-before.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/navigate-before.js"
+        "mainFile": "src/svg-icons/image/navigate-before.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/navigate-next@1": {
         "files": [
@@ -17013,8 +17434,8 @@
                 "name": "navigate-next.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/navigate-next.js"
+        "mainFile": "src/svg-icons/image/navigate-next.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/palette@1": {
         "files": [
@@ -17024,8 +17445,8 @@
                 "name": "palette.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/palette.js"
+        "mainFile": "src/svg-icons/image/palette.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/panorama-fish-eye@1": {
         "files": [
@@ -17035,8 +17456,8 @@
                 "name": "panorama-fish-eye.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/panorama-fish-eye.js"
+        "mainFile": "src/svg-icons/image/panorama-fish-eye.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/panorama-horizontal@1": {
         "files": [
@@ -17046,8 +17467,24 @@
                 "name": "panorama-horizontal.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/panorama-horizontal.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/panorama-horizontal.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/panorama-vertical@1": {
         "files": [
@@ -17057,8 +17494,24 @@
                 "name": "panorama-vertical.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/panorama-vertical.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/panorama-vertical.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/panorama-wide-angle@1": {
         "files": [
@@ -17068,8 +17521,8 @@
                 "name": "panorama-wide-angle.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/panorama-wide-angle.js"
+        "mainFile": "src/svg-icons/image/panorama-wide-angle.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/panorama@1": {
         "files": [
@@ -17079,8 +17532,8 @@
                 "name": "panorama.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/panorama.js"
+        "mainFile": "src/svg-icons/image/panorama.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/photo-album@1": {
         "files": [
@@ -17090,8 +17543,24 @@
                 "name": "photo-album.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/photo-album.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/photo-album.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/photo-camera@1": {
         "files": [
@@ -17101,8 +17570,8 @@
                 "name": "photo-camera.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/photo-camera.js"
+        "mainFile": "src/svg-icons/image/photo-camera.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/photo-filter@1": {
         "files": [
@@ -17112,8 +17581,8 @@
                 "name": "photo-filter.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/photo-filter.js"
+        "mainFile": "src/svg-icons/image/photo-filter.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/photo-library@1": {
         "files": [
@@ -17123,8 +17592,8 @@
                 "name": "photo-library.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/photo-library.js"
+        "mainFile": "src/svg-icons/image/photo-library.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/photo-size-select-actual@1": {
         "files": [
@@ -17134,8 +17603,24 @@
                 "name": "photo-size-select-actual.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/photo-size-select-actual.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/photo-size-select-actual.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/photo-size-select-large@1": {
         "files": [
@@ -17145,8 +17630,8 @@
                 "name": "photo-size-select-large.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/photo-size-select-large.js"
+        "mainFile": "src/svg-icons/image/photo-size-select-large.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/photo-size-select-small@1": {
         "files": [
@@ -17156,8 +17641,8 @@
                 "name": "photo-size-select-small.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/photo-size-select-small.js"
+        "mainFile": "src/svg-icons/image/photo-size-select-small.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/photo@1": {
         "files": [
@@ -17167,8 +17652,8 @@
                 "name": "photo.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/photo.js"
+        "mainFile": "src/svg-icons/image/photo.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/picture-as-pdf@1": {
         "files": [
@@ -17178,8 +17663,8 @@
                 "name": "picture-as-pdf.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/picture-as-pdf.js"
+        "mainFile": "src/svg-icons/image/picture-as-pdf.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/portrait@1": {
         "files": [
@@ -17189,8 +17674,8 @@
                 "name": "portrait.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/portrait.js"
+        "mainFile": "src/svg-icons/image/portrait.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/remove-red-eye@1": {
         "files": [
@@ -17200,8 +17685,8 @@
                 "name": "remove-red-eye.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/remove-red-eye.js"
+        "mainFile": "src/svg-icons/image/remove-red-eye.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/rotate-90-degrees-ccw@1": {
         "files": [
@@ -17211,8 +17696,8 @@
                 "name": "rotate-90-degrees-ccw.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/rotate-90-degrees-ccw.js"
+        "mainFile": "src/svg-icons/image/rotate-90-degrees-ccw.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/rotate-left@1": {
         "files": [
@@ -17222,8 +17707,8 @@
                 "name": "rotate-left.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/rotate-left.js"
+        "mainFile": "src/svg-icons/image/rotate-left.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/rotate-right@1": {
         "files": [
@@ -17233,8 +17718,24 @@
                 "name": "rotate-right.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/rotate-right.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/rotate-right.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/slideshow@1": {
         "files": [
@@ -17244,8 +17745,8 @@
                 "name": "slideshow.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/slideshow.js"
+        "mainFile": "src/svg-icons/image/slideshow.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/straighten@1": {
         "files": [
@@ -17255,8 +17756,8 @@
                 "name": "straighten.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/straighten.js"
+        "mainFile": "src/svg-icons/image/straighten.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/style@1": {
         "files": [
@@ -17266,8 +17767,8 @@
                 "name": "style.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/style.js"
+        "mainFile": "src/svg-icons/image/style.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/switch-camera@1": {
         "files": [
@@ -17277,8 +17778,8 @@
                 "name": "switch-camera.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/switch-camera.js"
+        "mainFile": "src/svg-icons/image/switch-camera.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/switch-video@1": {
         "files": [
@@ -17288,8 +17789,24 @@
                 "name": "switch-video.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/switch-video.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/switch-video.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/tag-faces@1": {
         "files": [
@@ -17299,8 +17816,8 @@
                 "name": "tag-faces.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/tag-faces.js"
+        "mainFile": "src/svg-icons/image/tag-faces.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/texture@1": {
         "files": [
@@ -17310,8 +17827,8 @@
                 "name": "texture.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/texture.js"
+        "mainFile": "src/svg-icons/image/texture.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/timelapse@1": {
         "files": [
@@ -17321,8 +17838,24 @@
                 "name": "timelapse.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/timelapse.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/timelapse.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/timer-10@1": {
         "files": [
@@ -17332,8 +17865,8 @@
                 "name": "timer-10.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/timer-10.js"
+        "mainFile": "src/svg-icons/image/timer-10.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/timer-3@1": {
         "files": [
@@ -17343,8 +17876,24 @@
                 "name": "timer-3.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/timer-3.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/timer-3.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/timer-off@1": {
         "files": [
@@ -17354,8 +17903,8 @@
                 "name": "timer-off.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/timer-off.js"
+        "mainFile": "src/svg-icons/image/timer-off.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/timer@1": {
         "files": [
@@ -17365,8 +17914,24 @@
                 "name": "timer.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/timer.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/timer.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/tonality@1": {
         "files": [
@@ -17376,8 +17941,8 @@
                 "name": "tonality.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/tonality.js"
+        "mainFile": "src/svg-icons/image/tonality.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/transform@1": {
         "files": [
@@ -17387,8 +17952,8 @@
                 "name": "transform.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/transform.js"
+        "mainFile": "src/svg-icons/image/transform.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/tune@1": {
         "files": [
@@ -17398,8 +17963,8 @@
                 "name": "tune.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/tune.js"
+        "mainFile": "src/svg-icons/image/tune.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/view-comfy@1": {
         "files": [
@@ -17409,8 +17974,8 @@
                 "name": "view-comfy.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/view-comfy.js"
+        "mainFile": "src/svg-icons/image/view-comfy.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/view-compact@1": {
         "files": [
@@ -17420,8 +17985,8 @@
                 "name": "view-compact.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/view-compact.js"
+        "mainFile": "src/svg-icons/image/view-compact.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/vignette@1": {
         "files": [
@@ -17431,8 +17996,8 @@
                 "name": "vignette.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/vignette.js"
+        "mainFile": "src/svg-icons/image/vignette.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/wb-auto@1": {
         "files": [
@@ -17442,8 +18007,24 @@
                 "name": "wb-auto.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/wb-auto.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/wb-auto.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
     },
     "odedreuveny.material-ui-icons/image/wb-cloudy@1": {
         "files": [
@@ -17453,8 +18034,8 @@
                 "name": "wb-cloudy.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/wb-cloudy.js"
+        "mainFile": "src/svg-icons/image/wb-cloudy.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/wb-incandescent@1": {
         "files": [
@@ -17464,8 +18045,8 @@
                 "name": "wb-incandescent.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/wb-incandescent.js"
+        "mainFile": "src/svg-icons/image/wb-incandescent.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/wb-iridescent@1": {
         "files": [
@@ -17475,8 +18056,8 @@
                 "name": "wb-iridescent.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/wb-iridescent.js"
+        "mainFile": "src/svg-icons/image/wb-iridescent.js",
+        "origin": "AUTHORED"
     },
     "odedreuveny.material-ui-icons/image/wb-sunny@1": {
         "files": [
@@ -17486,7 +18067,2428 @@
                 "name": "wb-sunny.js"
             }
         ],
+        "mainFile": "src/svg-icons/image/wb-sunny.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/image/adjust@1": {
+        "files": [
+            {
+                "name": "adjust.js",
+                "relativePath": "src/svg-icons/image/adjust.js",
+                "test": false
+            }
+        ],
+        "mainFile": "src/svg-icons/image/adjust.js",
         "origin": "AUTHORED",
-        "mainFile": "src/svg-icons/image/wb-sunny.js"
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
+    },
+    "odedreuveny.material-ui-icons/maps/restaurant-menu@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/restaurant-menu.js",
+                "test": false,
+                "name": "restaurant-menu.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/restaurant-menu.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-pharmacy@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-pharmacy.js",
+                "test": false,
+                "name": "local-pharmacy.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-pharmacy.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/add-location@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/add-location.js",
+                "test": false,
+                "name": "add-location.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/add-location.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/my-location@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/my-location.js",
+                "test": false,
+                "name": "my-location.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/my-location.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-florist@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-florist.js",
+                "test": false,
+                "name": "local-florist.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-florist.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/restaurant@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/restaurant.js",
+                "test": false,
+                "name": "restaurant.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/restaurant.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/directions-run@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/directions-run.js",
+                "test": false,
+                "name": "directions-run.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/directions-run.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-atm@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-atm.js",
+                "test": false,
+                "name": "local-atm.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-atm.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-see@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-see.js",
+                "test": false,
+                "name": "local-see.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-see.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-mall@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-mall.js",
+                "test": false,
+                "name": "local-mall.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-mall.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/ev-station@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/ev-station.js",
+                "test": false,
+                "name": "ev-station.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/ev-station.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/hotel@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/hotel.js",
+                "test": false,
+                "name": "hotel.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/hotel.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/satellite@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/satellite.js",
+                "test": false,
+                "name": "satellite.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/satellite.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/pin-drop@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/pin-drop.js",
+                "test": false,
+                "name": "pin-drop.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/pin-drop.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/subway@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/subway.js",
+                "test": false,
+                "name": "subway.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/subway.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/directions-subway@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/directions-subway.js",
+                "test": false,
+                "name": "directions-subway.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/directions-subway.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-airport@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-airport.js",
+                "test": false,
+                "name": "local-airport.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-airport.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-bar@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-bar.js",
+                "test": false,
+                "name": "local-bar.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-bar.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-play@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-play.js",
+                "test": false,
+                "name": "local-play.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-play.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/store-mall-directory@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/store-mall-directory.js",
+                "test": false,
+                "name": "store-mall-directory.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/store-mall-directory.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-movies@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-movies.js",
+                "test": false,
+                "name": "local-movies.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-movies.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/place@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/place.js",
+                "test": false,
+                "name": "place.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/place.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-cafe@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-cafe.js",
+                "test": false,
+                "name": "local-cafe.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-cafe.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-phone@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-phone.js",
+                "test": false,
+                "name": "local-phone.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-phone.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/person-pin-circle@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/person-pin-circle.js",
+                "test": false,
+                "name": "person-pin-circle.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/person-pin-circle.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-convenience-store@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-convenience-store.js",
+                "test": false,
+                "name": "local-convenience-store.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-convenience-store.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/navigation@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/navigation.js",
+                "test": false,
+                "name": "navigation.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/navigation.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/near-me@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/near-me.js",
+                "test": false,
+                "name": "near-me.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/near-me.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/directions-car@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/directions-car.js",
+                "test": false,
+                "name": "directions-car.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/directions-car.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-grocery-store@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-grocery-store.js",
+                "test": false,
+                "name": "local-grocery-store.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-grocery-store.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/terrain@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/terrain.js",
+                "test": false,
+                "name": "terrain.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/terrain.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/tram@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/tram.js",
+                "test": false,
+                "name": "tram.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/tram.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/directions-transit@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/directions-transit.js",
+                "test": false,
+                "name": "directions-transit.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/directions-transit.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-laundry-service@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-laundry-service.js",
+                "test": false,
+                "name": "local-laundry-service.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-laundry-service.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/directions-bike@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/directions-bike.js",
+                "test": false,
+                "name": "directions-bike.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/directions-bike.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-dining@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-dining.js",
+                "test": false,
+                "name": "local-dining.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-dining.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-hotel@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-hotel.js",
+                "test": false,
+                "name": "local-hotel.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-hotel.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-post-office@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-post-office.js",
+                "test": false,
+                "name": "local-post-office.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-post-office.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-drink@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-drink.js",
+                "test": false,
+                "name": "local-drink.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-drink.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-shipping@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-shipping.js",
+                "test": false,
+                "name": "local-shipping.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-shipping.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/train@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/train.js",
+                "test": false,
+                "name": "train.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/train.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/layers-clear@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/layers-clear.js",
+                "test": false,
+                "name": "layers-clear.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/layers-clear.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-activity@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-activity.js",
+                "test": false,
+                "name": "local-activity.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-activity.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/directions-walk@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/directions-walk.js",
+                "test": false,
+                "name": "directions-walk.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/directions-walk.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/directions@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/directions.js",
+                "test": false,
+                "name": "directions.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/directions.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/beenhere@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/beenhere.js",
+                "test": false,
+                "name": "beenhere.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/beenhere.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-parking@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-parking.js",
+                "test": false,
+                "name": "local-parking.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-parking.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-car-wash@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-car-wash.js",
+                "test": false,
+                "name": "local-car-wash.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-car-wash.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/map@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/map.js",
+                "test": false,
+                "name": "map.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/map.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/directions-boat@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/directions-boat.js",
+                "test": false,
+                "name": "directions-boat.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/directions-boat.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/person-pin@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/person-pin.js",
+                "test": false,
+                "name": "person-pin.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/person-pin.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/directions-railway@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/directions-railway.js",
+                "test": false,
+                "name": "directions-railway.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/directions-railway.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/rate-review@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/rate-review.js",
+                "test": false,
+                "name": "rate-review.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/rate-review.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/layers@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/layers.js",
+                "test": false,
+                "name": "layers.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/layers.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-gas-station@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-gas-station.js",
+                "test": false,
+                "name": "local-gas-station.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-gas-station.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-printshop@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-printshop.js",
+                "test": false,
+                "name": "local-printshop.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-printshop.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-pizza@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-pizza.js",
+                "test": false,
+                "name": "local-pizza.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-pizza.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/zoom-out-map@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/zoom-out-map.js",
+                "test": false,
+                "name": "zoom-out-map.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/zoom-out-map.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-taxi@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-taxi.js",
+                "test": false,
+                "name": "local-taxi.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-taxi.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/streetview@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/streetview.js",
+                "test": false,
+                "name": "streetview.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/streetview.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-hospital@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-hospital.js",
+                "test": false,
+                "name": "local-hospital.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-hospital.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/traffic@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/traffic.js",
+                "test": false,
+                "name": "traffic.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/traffic.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/edit-location@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/edit-location.js",
+                "test": false,
+                "name": "edit-location.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/edit-location.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/flight@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/flight.js",
+                "test": false,
+                "name": "flight.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/flight.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-library@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-library.js",
+                "test": false,
+                "name": "local-library.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-library.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/directions-bus@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/directions-bus.js",
+                "test": false,
+                "name": "directions-bus.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/directions-bus.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/transfer-within-a-station@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/transfer-within-a-station.js",
+                "test": false,
+                "name": "transfer-within-a-station.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/transfer-within-a-station.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/maps/local-offer@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/maps/local-offer.js",
+                "test": false,
+                "name": "local-offer.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/maps/local-offer.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/navigation/apps@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/apps.js",
+                "test": false,
+                "name": "apps.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/apps.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/navigation/arrow-back@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/arrow-back.js",
+                "test": false,
+                "name": "arrow-back.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/arrow-back.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/navigation/arrow-downward@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/arrow-downward.js",
+                "test": false,
+                "name": "arrow-downward.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/arrow-downward.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/navigation/arrow-drop-down-circle@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/arrow-drop-down-circle.js",
+                "test": false,
+                "name": "arrow-drop-down-circle.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/arrow-drop-down-circle.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/navigation/arrow-drop-down@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/arrow-drop-down.js",
+                "test": false,
+                "name": "arrow-drop-down.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/arrow-drop-down.js",
+        "origin": "AUTHORED",
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
+    },
+    "odedreuveny.material-ui-icons/navigation/arrow-drop-up@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/arrow-drop-up.js",
+                "test": false,
+                "name": "arrow-drop-up.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/arrow-drop-up.js",
+        "origin": "AUTHORED",
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
+    },
+    "odedreuveny.material-ui-icons/navigation/arrow-forward@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/arrow-forward.js",
+                "test": false,
+                "name": "arrow-forward.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/arrow-forward.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/navigation/arrow-upward@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/arrow-upward.js",
+                "test": false,
+                "name": "arrow-upward.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/arrow-upward.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/navigation/cancel@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/cancel.js",
+                "test": false,
+                "name": "cancel.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/cancel.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/navigation/check@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/check.js",
+                "test": false,
+                "name": "check.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/check.js",
+        "origin": "AUTHORED",
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
+    },
+    "odedreuveny.material-ui-icons/navigation/chevron-left@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/chevron-left.js",
+                "test": false,
+                "name": "chevron-left.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/chevron-left.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/navigation/chevron-right@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/chevron-right.js",
+                "test": false,
+                "name": "chevron-right.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/chevron-right.js",
+        "origin": "AUTHORED",
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
+    },
+    "odedreuveny.material-ui-icons/navigation/close@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/close.js",
+                "test": false,
+                "name": "close.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/close.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/navigation/expand-less@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/expand-less.js",
+                "test": false,
+                "name": "expand-less.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/expand-less.js",
+        "origin": "AUTHORED",
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
+    },
+    "odedreuveny.material-ui-icons/navigation/expand-more@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/expand-more.js",
+                "test": false,
+                "name": "expand-more.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/expand-more.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/navigation/first-page@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/first-page.js",
+                "test": false,
+                "name": "first-page.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/first-page.js",
+        "origin": "AUTHORED",
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
+    },
+    "odedreuveny.material-ui-icons/navigation/fullscreen-exit@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/fullscreen-exit.js",
+                "test": false,
+                "name": "fullscreen-exit.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/fullscreen-exit.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/navigation/fullscreen@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/fullscreen.js",
+                "test": false,
+                "name": "fullscreen.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/fullscreen.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/navigation/last-page@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/last-page.js",
+                "test": false,
+                "name": "last-page.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/last-page.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/navigation/menu@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/menu.js",
+                "test": false,
+                "name": "menu.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/menu.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/navigation/more-horiz@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/more-horiz.js",
+                "test": false,
+                "name": "more-horiz.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/more-horiz.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/navigation/more-vert@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/more-vert.js",
+                "test": false,
+                "name": "more-vert.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/more-vert.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/navigation/refresh@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/refresh.js",
+                "test": false,
+                "name": "refresh.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/refresh.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/navigation/subdirectory-arrow-left@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/subdirectory-arrow-left.js",
+                "test": false,
+                "name": "subdirectory-arrow-left.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/subdirectory-arrow-left.js",
+        "origin": "AUTHORED",
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
+    },
+    "odedreuveny.material-ui-icons/navigation/subdirectory-arrow-right@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/subdirectory-arrow-right.js",
+                "test": false,
+                "name": "subdirectory-arrow-right.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/subdirectory-arrow-right.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/navigation/unfold-less@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/unfold-less.js",
+                "test": false,
+                "name": "unfold-less.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/unfold-less.js",
+        "origin": "AUTHORED",
+        "dependencies": [
+            "odedreuveny.material-ui-utils-t/styles/transitions@1",
+            "odedreuveny.material-ui-utils-t/styles/colors@1",
+            "odedreuveny.material-ui-utils-t/styles/spacing@1",
+            "odedreuveny.material-ui-utils-t/utils/color-manipulator@1",
+            "odedreuveny.material-ui-utils-t/base-themes/light-base-theme@1",
+            "odedreuveny.material-ui-utils-t/styles/typography@1",
+            "odedreuveny.material-ui-utils-t/styles/z-index@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-dynamic@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer-static@1",
+            "odedreuveny.material-ui-utils-t/utils/autoprefixer@1",
+            "odedreuveny.material-ui-utils-t/utils/call-once@1",
+            "odedreuveny.material-ui-utils-t/utils/rtl@1",
+            "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
+        ]
+    },
+    "odedreuveny.material-ui-icons/navigation/unfold-more@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/navigation/unfold-more.js",
+                "test": false,
+                "name": "unfold-more.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/navigation/unfold-more.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/ondemand-video@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/ondemand-video.js",
+                "test": false,
+                "name": "ondemand-video.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/ondemand-video.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/folder-special@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/folder-special.js",
+                "test": false,
+                "name": "folder-special.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/folder-special.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/airline-seat-recline-normal@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/airline-seat-recline-normal.js",
+                "test": false,
+                "name": "airline-seat-recline-normal.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/airline-seat-recline-normal.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/adb@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/adb.js",
+                "test": false,
+                "name": "adb.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/adb.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/phone-locked@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/phone-locked.js",
+                "test": false,
+                "name": "phone-locked.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/phone-locked.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/airline-seat-recline-extra@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/airline-seat-recline-extra.js",
+                "test": false,
+                "name": "airline-seat-recline-extra.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/airline-seat-recline-extra.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/do-not-disturb-off@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/do-not-disturb-off.js",
+                "test": false,
+                "name": "do-not-disturb-off.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/do-not-disturb-off.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/airline-seat-individual-suite@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/airline-seat-individual-suite.js",
+                "test": false,
+                "name": "airline-seat-individual-suite.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/airline-seat-individual-suite.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/do-not-disturb-on@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/do-not-disturb-on.js",
+                "test": false,
+                "name": "do-not-disturb-on.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/do-not-disturb-on.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/voice-chat@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/voice-chat.js",
+                "test": false,
+                "name": "voice-chat.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/voice-chat.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/sms-failed@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/sms-failed.js",
+                "test": false,
+                "name": "sms-failed.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/sms-failed.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/enhanced-encryption@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/enhanced-encryption.js",
+                "test": false,
+                "name": "enhanced-encryption.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/enhanced-encryption.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/sd-card@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/sd-card.js",
+                "test": false,
+                "name": "sd-card.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/sd-card.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/bluetooth-audio@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/bluetooth-audio.js",
+                "test": false,
+                "name": "bluetooth-audio.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/bluetooth-audio.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/airline-seat-flat-angled@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/airline-seat-flat-angled.js",
+                "test": false,
+                "name": "airline-seat-flat-angled.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/airline-seat-flat-angled.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/airline-seat-legroom-extra@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/airline-seat-legroom-extra.js",
+                "test": false,
+                "name": "airline-seat-legroom-extra.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/airline-seat-legroom-extra.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/airline-seat-legroom-normal@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/airline-seat-legroom-normal.js",
+                "test": false,
+                "name": "airline-seat-legroom-normal.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/airline-seat-legroom-normal.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/personal-video@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/personal-video.js",
+                "test": false,
+                "name": "personal-video.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/personal-video.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/network-check@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/network-check.js",
+                "test": false,
+                "name": "network-check.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/network-check.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/vibration@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/vibration.js",
+                "test": false,
+                "name": "vibration.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/vibration.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/power@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/power.js",
+                "test": false,
+                "name": "power.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/power.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/system-update@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/system-update.js",
+                "test": false,
+                "name": "system-update.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/system-update.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/confirmation-number@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/confirmation-number.js",
+                "test": false,
+                "name": "confirmation-number.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/confirmation-number.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/sync-problem@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/sync-problem.js",
+                "test": false,
+                "name": "sync-problem.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/sync-problem.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/network-locked@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/network-locked.js",
+                "test": false,
+                "name": "network-locked.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/network-locked.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/priority-high@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/priority-high.js",
+                "test": false,
+                "name": "priority-high.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/priority-high.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/no-encryption@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/no-encryption.js",
+                "test": false,
+                "name": "no-encryption.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/no-encryption.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/airline-seat-flat@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/airline-seat-flat.js",
+                "test": false,
+                "name": "airline-seat-flat.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/airline-seat-flat.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/rv-hookup@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/rv-hookup.js",
+                "test": false,
+                "name": "rv-hookup.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/rv-hookup.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/live-tv@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/live-tv.js",
+                "test": false,
+                "name": "live-tv.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/live-tv.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/tap-and-play@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/tap-and-play.js",
+                "test": false,
+                "name": "tap-and-play.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/tap-and-play.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/sms@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/sms.js",
+                "test": false,
+                "name": "sms.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/sms.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/event-available@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/event-available.js",
+                "test": false,
+                "name": "event-available.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/event-available.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/do-not-disturb-alt@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/do-not-disturb-alt.js",
+                "test": false,
+                "name": "do-not-disturb-alt.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/do-not-disturb-alt.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/time-to-leave@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/time-to-leave.js",
+                "test": false,
+                "name": "time-to-leave.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/time-to-leave.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/phone-paused@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/phone-paused.js",
+                "test": false,
+                "name": "phone-paused.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/phone-paused.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/drive-eta@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/drive-eta.js",
+                "test": false,
+                "name": "drive-eta.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/drive-eta.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/event-busy@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/event-busy.js",
+                "test": false,
+                "name": "event-busy.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/event-busy.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/phone-bluetooth-speaker@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/phone-bluetooth-speaker.js",
+                "test": false,
+                "name": "phone-bluetooth-speaker.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/phone-bluetooth-speaker.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/vpn-lock@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/vpn-lock.js",
+                "test": false,
+                "name": "vpn-lock.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/vpn-lock.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/phone-missed@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/phone-missed.js",
+                "test": false,
+                "name": "phone-missed.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/phone-missed.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/sim-card-alert@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/sim-card-alert.js",
+                "test": false,
+                "name": "sim-card-alert.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/sim-card-alert.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/mms@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/mms.js",
+                "test": false,
+                "name": "mms.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/mms.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/wc@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/wc.js",
+                "test": false,
+                "name": "wc.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/wc.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/disc-full@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/disc-full.js",
+                "test": false,
+                "name": "disc-full.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/disc-full.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/airline-seat-legroom-reduced@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/airline-seat-legroom-reduced.js",
+                "test": false,
+                "name": "airline-seat-legroom-reduced.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/airline-seat-legroom-reduced.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/sync-disabled@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/sync-disabled.js",
+                "test": false,
+                "name": "sync-disabled.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/sync-disabled.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/do-not-disturb@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/do-not-disturb.js",
+                "test": false,
+                "name": "do-not-disturb.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/do-not-disturb.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/wifi@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/wifi.js",
+                "test": false,
+                "name": "wifi.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/wifi.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/event-note@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/event-note.js",
+                "test": false,
+                "name": "event-note.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/event-note.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/sync@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/sync.js",
+                "test": false,
+                "name": "sync.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/sync.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/more@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/more.js",
+                "test": false,
+                "name": "more.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/more.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/phone-forwarded@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/phone-forwarded.js",
+                "test": false,
+                "name": "phone-forwarded.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/phone-forwarded.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/notification/phone-in-talk@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/notification/phone-in-talk.js",
+                "test": false,
+                "name": "phone-in-talk.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/notification/phone-in-talk.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/places/child-friendly@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/places/child-friendly.js",
+                "test": false,
+                "name": "child-friendly.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/places/child-friendly.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/places/airport-shuttle@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/places/airport-shuttle.js",
+                "test": false,
+                "name": "airport-shuttle.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/places/airport-shuttle.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/places/child-care@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/places/child-care.js",
+                "test": false,
+                "name": "child-care.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/places/child-care.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/places/business-center@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/places/business-center.js",
+                "test": false,
+                "name": "business-center.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/places/business-center.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/places/beach-access@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/places/beach-access.js",
+                "test": false,
+                "name": "beach-access.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/places/beach-access.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/places/all-inclusive@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/places/all-inclusive.js",
+                "test": false,
+                "name": "all-inclusive.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/places/all-inclusive.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/places/kitchen@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/places/kitchen.js",
+                "test": false,
+                "name": "kitchen.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/places/kitchen.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/places/smoking-rooms@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/places/smoking-rooms.js",
+                "test": false,
+                "name": "smoking-rooms.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/places/smoking-rooms.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/places/golf-course@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/places/golf-course.js",
+                "test": false,
+                "name": "golf-course.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/places/golf-course.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/places/smoke-free@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/places/smoke-free.js",
+                "test": false,
+                "name": "smoke-free.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/places/smoke-free.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/places/fitness-center@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/places/fitness-center.js",
+                "test": false,
+                "name": "fitness-center.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/places/fitness-center.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/places/ac-unit@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/places/ac-unit.js",
+                "test": false,
+                "name": "ac-unit.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/places/ac-unit.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/places/free-breakfast@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/places/free-breakfast.js",
+                "test": false,
+                "name": "free-breakfast.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/places/free-breakfast.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/places/casino@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/places/casino.js",
+                "test": false,
+                "name": "casino.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/places/casino.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/places/room-service@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/places/room-service.js",
+                "test": false,
+                "name": "room-service.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/places/room-service.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/places/rv-hookup@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/places/rv-hookup.js",
+                "test": false,
+                "name": "rv-hookup.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/places/rv-hookup.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/places/pool@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/places/pool.js",
+                "test": false,
+                "name": "pool.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/places/pool.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/places/hot-tub@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/places/hot-tub.js",
+                "test": false,
+                "name": "hot-tub.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/places/hot-tub.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/places/spa@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/places/spa.js",
+                "test": false,
+                "name": "spa.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/places/spa.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/person-outline@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/person-outline.js",
+                "test": false,
+                "name": "person-outline.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/person-outline.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/person-add@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/person-add.js",
+                "test": false,
+                "name": "person-add.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/person-add.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/group-add@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/group-add.js",
+                "test": false,
+                "name": "group-add.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/group-add.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/notifications-paused@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/notifications-paused.js",
+                "test": false,
+                "name": "notifications-paused.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/notifications-paused.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/notifications-none@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/notifications-none.js",
+                "test": false,
+                "name": "notifications-none.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/notifications-none.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/person@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/person.js",
+                "test": false,
+                "name": "person.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/person.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/sentiment-satisfied@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/sentiment-satisfied.js",
+                "test": false,
+                "name": "sentiment-satisfied.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/sentiment-satisfied.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/public@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/public.js",
+                "test": false,
+                "name": "public.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/public.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/plus-one@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/plus-one.js",
+                "test": false,
+                "name": "plus-one.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/plus-one.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/sentiment-very-dissatisfied@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/sentiment-very-dissatisfied.js",
+                "test": false,
+                "name": "sentiment-very-dissatisfied.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/sentiment-very-dissatisfied.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/school@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/school.js",
+                "test": false,
+                "name": "school.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/school.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/mood@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/mood.js",
+                "test": false,
+                "name": "mood.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/mood.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/people@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/people.js",
+                "test": false,
+                "name": "people.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/people.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/notifications-off@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/notifications-off.js",
+                "test": false,
+                "name": "notifications-off.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/notifications-off.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/people-outline@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/people-outline.js",
+                "test": false,
+                "name": "people-outline.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/people-outline.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/sentiment-very-satisfied@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/sentiment-very-satisfied.js",
+                "test": false,
+                "name": "sentiment-very-satisfied.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/sentiment-very-satisfied.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/group@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/group.js",
+                "test": false,
+                "name": "group.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/group.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/share@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/share.js",
+                "test": false,
+                "name": "share.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/share.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/domain@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/domain.js",
+                "test": false,
+                "name": "domain.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/domain.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/notifications-active@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/notifications-active.js",
+                "test": false,
+                "name": "notifications-active.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/notifications-active.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/whatshot@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/whatshot.js",
+                "test": false,
+                "name": "whatshot.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/whatshot.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/sentiment-neutral@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/sentiment-neutral.js",
+                "test": false,
+                "name": "sentiment-neutral.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/sentiment-neutral.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/sentiment-dissatisfied@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/sentiment-dissatisfied.js",
+                "test": false,
+                "name": "sentiment-dissatisfied.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/sentiment-dissatisfied.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/poll@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/poll.js",
+                "test": false,
+                "name": "poll.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/poll.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/pages@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/pages.js",
+                "test": false,
+                "name": "pages.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/pages.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/notifications@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/notifications.js",
+                "test": false,
+                "name": "notifications.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/notifications.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/location-city@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/location-city.js",
+                "test": false,
+                "name": "location-city.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/location-city.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/party-mode@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/party-mode.js",
+                "test": false,
+                "name": "party-mode.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/party-mode.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/cake@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/cake.js",
+                "test": false,
+                "name": "cake.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/cake.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/social/mood-bad@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/social/mood-bad.js",
+                "test": false,
+                "name": "mood-bad.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/social/mood-bad.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/toggle/star-border@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/toggle/star-border.js",
+                "test": false,
+                "name": "star-border.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/toggle/star-border.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/toggle/indeterminate-check-box@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/toggle/indeterminate-check-box.js",
+                "test": false,
+                "name": "indeterminate-check-box.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/toggle/indeterminate-check-box.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/toggle/radio-button-unchecked@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/toggle/radio-button-unchecked.js",
+                "test": false,
+                "name": "radio-button-unchecked.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/toggle/radio-button-unchecked.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/toggle/star-half@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/toggle/star-half.js",
+                "test": false,
+                "name": "star-half.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/toggle/star-half.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/toggle/radio-button-checked@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/toggle/radio-button-checked.js",
+                "test": false,
+                "name": "radio-button-checked.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/toggle/radio-button-checked.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/toggle/check-box-outline-blank@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/toggle/check-box-outline-blank.js",
+                "test": false,
+                "name": "check-box-outline-blank.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/toggle/check-box-outline-blank.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/toggle/star@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/toggle/star.js",
+                "test": false,
+                "name": "star.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/toggle/star.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-icons/toggle/check-box@1": {
+        "files": [
+            {
+                "relativePath": "src/svg-icons/toggle/check-box.js",
+                "test": false,
+                "name": "check-box.js"
+            }
+        ],
+        "mainFile": "src/svg-icons/toggle/check-box.js",
+        "origin": "AUTHORED"
     }
 }
