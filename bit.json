@@ -5,13 +5,11 @@
     },
     "dependencies": {
         "odedreuveny.material-ui-utils-t/styles/transitions": "1",
-        "odedreuveny.material-ui-utils-t/styles/get-mui-theme": "1"
+        "odedreuveny.material-ui-utils-t/styles/get-mui-theme": "1",
+        "bit.envs/compilers/react": "3"
     },
-    "packageDependencies": {
-        "prop-types": "15.5.10",
-        "react": "15.6.1",
-        "chai": "3.5.0",
-        "enzyme": "2.9.1",
-        "sinon": "3.2.1"
+    "structure": "components/{namespace}/{name}",
+    "dist": {
+        "target": "dist"
     }
 }
