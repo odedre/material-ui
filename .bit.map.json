@@ -16087,7 +16087,8 @@
             "odedreuveny.material-ui-utils-t/utils/call-once@1",
             "odedreuveny.material-ui-utils-t/utils/rtl@1",
             "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
-            "odedreuveny.material-ui-comps/icons/svg-icon@7"
+            "odedreuveny.material-ui-comps/icons/svg-icon@7",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
         ]
     },
     "odedreuveny.material-ui-icons/image/camera-rear@1": {
@@ -16725,7 +16726,8 @@
             "odedreuveny.material-ui-utils-t/utils/call-once@1",
             "odedreuveny.material-ui-utils-t/utils/rtl@1",
             "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
-            "odedreuveny.material-ui-comps/icons/svg-icon@7"
+            "odedreuveny.material-ui-comps/icons/svg-icon@7",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
         ]
     },
     "odedreuveny.material-ui-icons/image/filter-9@1": {
@@ -16861,7 +16863,8 @@
             "odedreuveny.material-ui-utils-t/utils/call-once@1",
             "odedreuveny.material-ui-utils-t/utils/rtl@1",
             "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
-            "odedreuveny.material-ui-comps/icons/svg-icon@7"
+            "odedreuveny.material-ui-comps/icons/svg-icon@7",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
         ]
     },
     "odedreuveny.material-ui-icons/image/filter@1": {
@@ -17379,7 +17382,8 @@
             "odedreuveny.material-ui-utils-t/utils/call-once@1",
             "odedreuveny.material-ui-utils-t/utils/rtl@1",
             "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
-            "odedreuveny.material-ui-comps/icons/svg-icon@7"
+            "odedreuveny.material-ui-comps/icons/svg-icon@7",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
         ]
     },
     "odedreuveny.material-ui-icons/image/music-note@1": {
@@ -18023,7 +18027,8 @@
             "odedreuveny.material-ui-utils-t/utils/call-once@1",
             "odedreuveny.material-ui-utils-t/utils/rtl@1",
             "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
-            "odedreuveny.material-ui-comps/icons/svg-icon@7"
+            "odedreuveny.material-ui-comps/icons/svg-icon@7",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
         ]
     },
     "odedreuveny.material-ui-icons/image/wb-cloudy@1": {
@@ -19256,7 +19261,8 @@
             "odedreuveny.material-ui-utils-t/utils/call-once@1",
             "odedreuveny.material-ui-utils-t/utils/rtl@1",
             "odedreuveny.material-ui-utils-t/styles/get-mui-theme@1",
-            "odedreuveny.material-ui-comps/icons/svg-icon@7"
+            "odedreuveny.material-ui-comps/icons/svg-icon@7",
+            "odedreuveny.material-ui-comps/icons/svg-icon@6"
         ]
     },
     "odedreuveny.material-ui-icons/navigation/unfold-more@1": {
@@ -20678,6 +20684,59 @@
         "mainFile": "src/internal/TouchRipple.js",
         "origin": "AUTHORED"
     },
+    "odedreuveny.material-ui-comps/icons/svg-icon@6": {
+        "files": [
+            {
+                "name": "SvgIcon.js",
+                "relativePath": "src/SvgIcon/SvgIcon.js",
+                "test": false
+            },
+            {
+                "name": "SvgIcon.spec.js",
+                "relativePath": "src/SvgIcon/SvgIcon.spec.js",
+                "test": true
+            },
+            {
+                "name": "index.js",
+                "relativePath": "src/SvgIcon/index.js",
+                "test": false
+            }
+        ],
+        "mainFile": "src/SvgIcon/SvgIcon.js",
+        "origin": "NESTED"
+    },
+    "ui/paper": {
+        "files": [
+            {
+                "relativePath": "src/Paper/Paper.js",
+                "test": false,
+                "name": "Paper.js"
+            },
+            {
+                "relativePath": "src/Paper/Paper.spec.js",
+                "test": true,
+                "name": "Paper.spec.js"
+            },
+            {
+                "relativePath": "src/Paper/index.js",
+                "test": false,
+                "name": "index.js"
+            }
+        ],
+        "mainFile": "src/Paper/Paper.js",
+        "origin": "AUTHORED"
+    },
+    "internal/enhanced-switch": {
+        "files": [
+            {
+                "relativePath": "src/internal/EnhancedSwitch.js",
+                "test": false,
+                "name": "EnhancedSwitch.js"
+            }
+        ],
+        "mainFile": "src/internal/EnhancedSwitch.js",
+        "origin": "AUTHORED"
+    },
     "internal/enhanced-button": {
         "files": [
             {
@@ -20691,18 +20750,7 @@
                 "name": "EnhancedButton.spec.js"
             }
         ],
-        "mainFile": "src/internal/EnhancedButton.js",
-        "origin": "AUTHORED"
-    },
-    "ui/paper": {
-        "files": [
-            {
-                "relativePath": "src/Paper/Paper.js",
-                "test": false,
-                "name": "Paper.js"
-            }
-        ],
-        "mainFile": "src/Paper/Paper.js",
-        "origin": "AUTHORED"
+        "origin": "AUTHORED",
+        "mainFile": "src/internal/EnhancedButton.js"
     }
 }

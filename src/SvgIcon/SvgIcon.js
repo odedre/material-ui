@@ -14,19 +14,19 @@ import transitions from '../styles/transitions';
  * For convenience, the full set of google Material icons are available in Material-UI as pre-built SVG Icon components. Each icon path is already wrapped with SvgIcon, and can be imported and used directly as a React component. Any properties supplied are passed to SvgIcon.
  * The import path for each Material icons component includes the category and icon name, with spaces substituted with dashes. For example to use the 3d rotation icon component, import material-ui/svg-icons/action/3d-rotation.
  * For more info go to http://www.material-ui.com/#/components/svg-icon
- *
+ * 
  * @example 
- *
+ * 
  * // This example uses a custom svg icon. The third example has a hoverColor defined.
  *
  * import React from 'react';
  * import {blue500, red500, greenA200} from 'material-ui/styles/colors';
  * import SvgIcon from 'material-ui/SvgIcon';
- *
+ * 
  * const iconStyles = {
  *   marginRight: 24,
  * };
- *
+ * 
  * const HomeIcon = (props) => (
  *   <SvgIcon {...props}>
  *     <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" />

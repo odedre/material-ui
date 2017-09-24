@@ -4,15 +4,14 @@
         "tester": "bit.envs/testers/mocha-react@3"
     },
     "dependencies": {
-        "odedreuveny.material-ui-icons/image/filter-vintage": "1",
-        "odedreuveny.material-ui-icons/image/filter-9-plus": "1",
-        "odedreuveny.material-ui-icons/image/movie-filter": "1",
-        "odedreuveny.material-ui-icons/image/camera-front": "1",
-        "odedreuveny.material-ui-icons/image/wb-auto": "1",
-        "odedreuveny.material-ui-icons/navigation/unfold-less": "1"
+        "odedreuveny.material-ui-utils-t/styles/transitions": "1",
+        "odedreuveny.material-ui-utils-t/styles/get-mui-theme": "1"
     },
-    "structure": "components/{namespace}/{name}",
-    "dist": {
-        "target": "dist"
+    "packageDependencies": {
+        "prop-types": "15.5.10",
+        "react": "15.6.1",
+        "chai": "3.5.0",
+        "enzyme": "2.9.1",
+        "sinon": "3.2.1"
     }
 }

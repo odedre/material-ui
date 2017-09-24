@@ -5,7 +5,7 @@ import keycode from 'keycode';
 import transitions from '../styles/transitions';
 import FocusRipple from './FocusRipple';
 import TouchRipple from './TouchRipple';
-import Paper from './../Paper';
+import Paper from '../Paper';
 import warning from 'warning';
 
 function getStyles(props, context) {
