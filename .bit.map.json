@@ -20851,7 +20851,7 @@
             },
             {
                 "relativePath": "src/AutoComplete/AutoComplete.spec.js",
-                "test": false,
+                "test": true,
                 "name": "AutoComplete.spec.js"
             },
             {
@@ -20872,7 +20872,7 @@
             },
             {
                 "relativePath": "src/Avatar/Avatar.spec.js",
-                "test": false,
+                "test": true,
                 "name": "Avatar.spec.js"
             },
             {
@@ -20893,7 +20893,7 @@
             },
             {
                 "relativePath": "src/Badge/Badge.spec.js",
-                "test": false,
+                "test": true,
                 "name": "Badge.spec.js"
             },
             {
@@ -20914,7 +20914,7 @@
             },
             {
                 "relativePath": "src/BottomNavigation/BottomNavigation.spec.js",
-                "test": false,
+                "test": true,
                 "name": "BottomNavigation.spec.js"
             },
             {
@@ -20924,7 +20924,7 @@
             },
             {
                 "relativePath": "src/BottomNavigation/BottomNavigationItem.spec.js",
-                "test": false,
+                "test": true,
                 "name": "BottomNavigationItem.spec.js"
             },
             {
@@ -20991,7 +20991,7 @@
             },
             {
                 "relativePath": "src/Checkbox/Checkbox.spec.js",
-                "test": false,
+                "test": true,
                 "name": "Checkbox.spec.js"
             },
             {
@@ -21000,7 +21000,292 @@
                 "name": "index.js"
             }
         ],
+        "mainFile": "src/Checkbox/index.js",
+        "origin": "AUTHORED"
+    },
+    "ui/chip": {
+        "files": [
+            {
+                "relativePath": "src/Chip/Chip.js",
+                "test": false,
+                "name": "Chip.js"
+            },
+            {
+                "relativePath": "src/Chip/Chip.spec.js",
+                "test": true,
+                "name": "Chip.spec.js"
+            },
+            {
+                "relativePath": "src/Chip/index.js",
+                "test": false,
+                "name": "index.js"
+            }
+        ],
+        "mainFile": "src/Chip/index.js",
+        "origin": "AUTHORED"
+    },
+    "ui/circular-progress": {
+        "files": [
+            {
+                "relativePath": "src/CircularProgress/CircularProgress.js",
+                "test": false,
+                "name": "CircularProgress.js"
+            },
+            {
+                "relativePath": "src/CircularProgress/index.js",
+                "test": false,
+                "name": "index.js"
+            }
+        ],
+        "mainFile": "src/CircularProgress/index.js",
+        "origin": "AUTHORED"
+    },
+    "ui/date-picker": {
+        "files": [
+            {
+                "relativePath": "src/DatePicker/Calendar.js",
+                "test": false,
+                "name": "Calendar.js"
+            },
+            {
+                "relativePath": "src/DatePicker/Calendar.spec.js",
+                "test": true,
+                "name": "Calendar.spec.js"
+            },
+            {
+                "relativePath": "src/DatePicker/CalendarActionButtons.js",
+                "test": false,
+                "name": "CalendarActionButtons.js"
+            },
+            {
+                "relativePath": "src/DatePicker/CalendarMonth.js",
+                "test": false,
+                "name": "CalendarMonth.js"
+            },
+            {
+                "relativePath": "src/DatePicker/CalendarToolbar.js",
+                "test": false,
+                "name": "CalendarToolbar.js"
+            },
+            {
+                "relativePath": "src/DatePicker/CalendarYear.js",
+                "test": false,
+                "name": "CalendarYear.js"
+            },
+            {
+                "relativePath": "src/DatePicker/CalendarYear.spec.js",
+                "test": true,
+                "name": "CalendarYear.spec.js"
+            },
+            {
+                "relativePath": "src/DatePicker/DateDisplay.js",
+                "test": false,
+                "name": "DateDisplay.js"
+            },
+            {
+                "relativePath": "src/DatePicker/DateDisplay.spec.js",
+                "test": true,
+                "name": "DateDisplay.spec.js"
+            },
+            {
+                "relativePath": "src/DatePicker/DatePicker.js",
+                "test": false,
+                "name": "DatePicker.js"
+            },
+            {
+                "relativePath": "src/DatePicker/DatePicker.spec.js",
+                "test": true,
+                "name": "DatePicker.spec.js"
+            },
+            {
+                "relativePath": "src/DatePicker/DatePickerDialog.js",
+                "test": false,
+                "name": "DatePickerDialog.js"
+            },
+            {
+                "relativePath": "src/DatePicker/dateUtils.js",
+                "test": false,
+                "name": "dateUtils.js"
+            },
+            {
+                "relativePath": "src/DatePicker/DayButton.js",
+                "test": false,
+                "name": "DayButton.js"
+            },
+            {
+                "relativePath": "src/DatePicker/DayButton.spec.js",
+                "test": true,
+                "name": "DayButton.spec.js"
+            },
+            {
+                "relativePath": "src/DatePicker/index.js",
+                "test": false,
+                "name": "index.js"
+            },
+            {
+                "relativePath": "src/DatePicker/YearButton.js",
+                "test": false,
+                "name": "YearButton.js"
+            }
+        ],
+        "mainFile": "src/DatePicker/index.js",
+        "origin": "AUTHORED"
+    },
+    "ui/dialog": {
+        "files": [
+            {
+                "relativePath": "src/Dialog/Dialog.js",
+                "test": false,
+                "name": "Dialog.js"
+            },
+            {
+                "relativePath": "src/Dialog/Dialog.spec.js",
+                "test": true,
+                "name": "Dialog.spec.js"
+            },
+            {
+                "relativePath": "src/Dialog/index.js",
+                "test": false,
+                "name": "index.js"
+            }
+        ],
+        "mainFile": "src/Dialog/index.js",
+        "origin": "AUTHORED"
+    },
+    "ui/divider": {
+        "files": [
+            {
+                "relativePath": "src/Divider/Divider.js",
+                "test": false,
+                "name": "Divider.js"
+            },
+            {
+                "relativePath": "src/Divider/Divider.spec.js",
+                "test": false,
+                "name": "Divider.spec.js"
+            },
+            {
+                "relativePath": "src/Divider/index.js",
+                "test": false,
+                "name": "index.js"
+            }
+        ],
+        "mainFile": "src/Divider/index.js",
+        "origin": "AUTHORED"
+    },
+    "ui/drawer": {
+        "files": [
+            {
+                "relativePath": "src/Drawer/Drawer.js",
+                "test": false,
+                "name": "Drawer.js"
+            },
+            {
+                "relativePath": "src/Drawer/Drawer.spec.js",
+                "test": false,
+                "name": "Drawer.spec.js"
+            },
+            {
+                "relativePath": "src/Drawer/index.js",
+                "test": false,
+                "name": "index.js"
+            }
+        ],
+        "mainFile": "src/Drawer/index.js",
+        "origin": "AUTHORED"
+    },
+    "ui/dropdown-menu": {
+        "files": [
+            {
+                "relativePath": "src/DropDownMenu/DropDownMenu.js",
+                "test": false,
+                "name": "DropDownMenu.js"
+            },
+            {
+                "relativePath": "src/DropDownMenu/DropDownMenu.spec.js",
+                "test": false,
+                "name": "DropDownMenu.spec.js"
+            },
+            {
+                "relativePath": "src/DropDownMenu/index.js",
+                "test": false,
+                "name": "index.js"
+            }
+        ],
+        "mainFile": "src/DropDownMenu/index.js",
+        "origin": "AUTHORED"
+    },
+    "ui/floating-action-button": {
+        "files": [
+            {
+                "relativePath": "src/FloatingActionButton/FloatingActionButton.js",
+                "test": false,
+                "name": "FloatingActionButton.js"
+            },
+            {
+                "relativePath": "src/FloatingActionButton/FloatingActionButton.spec.js",
+                "test": false,
+                "name": "FloatingActionButton.spec.js"
+            },
+            {
+                "relativePath": "src/FloatingActionButton/index.js",
+                "test": false,
+                "name": "index.js"
+            }
+        ],
+        "mainFile": "src/FloatingActionButton/index.js",
+        "origin": "AUTHORED"
+    },
+    "ui/grid-list": {
+        "files": [
+            {
+                "relativePath": "src/GridList/GridList.js",
+                "test": false,
+                "name": "GridList.js"
+            },
+            {
+                "relativePath": "src/GridList/GridList.spec.js",
+                "test": false,
+                "name": "GridList.spec.js"
+            },
+            {
+                "relativePath": "src/GridList/GridTile.js",
+                "test": false,
+                "name": "GridTile.js"
+            },
+            {
+                "relativePath": "src/GridList/GridTile.spec.js",
+                "test": false,
+                "name": "GridTile.spec.js"
+            },
+            {
+                "relativePath": "src/GridList/index.js",
+                "test": false,
+                "name": "index.js"
+            }
+        ],
+        "mainFile": "src/GridList/index.js",
+        "origin": "AUTHORED"
+    },
+    "ui/icon-menu": {
+        "files": [
+            {
+                "relativePath": "src/IconMenu/IconMenu.js",
+                "test": false,
+                "name": "IconMenu.js"
+            },
+            {
+                "relativePath": "src/IconMenu/IconMenu.spec.js",
+                "test": false,
+                "name": "IconMenu.spec.js"
+            },
+            {
+                "relativePath": "src/IconMenu/index.js",
+                "test": false,
+                "name": "index.js"
+            }
+        ],
         "origin": "AUTHORED",
-        "mainFile": "src/Checkbox/index.js"
+        "mainFile": "src/IconMenu/index.js"
     }
 }
