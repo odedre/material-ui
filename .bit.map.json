@@ -21161,7 +21161,7 @@
             },
             {
                 "relativePath": "src/Divider/Divider.spec.js",
-                "test": false,
+                "test": true,
                 "name": "Divider.spec.js"
             },
             {
@@ -21182,7 +21182,7 @@
             },
             {
                 "relativePath": "src/Drawer/Drawer.spec.js",
-                "test": false,
+                "test": true,
                 "name": "Drawer.spec.js"
             },
             {
@@ -21203,7 +21203,7 @@
             },
             {
                 "relativePath": "src/DropDownMenu/DropDownMenu.spec.js",
-                "test": false,
+                "test": true,
                 "name": "DropDownMenu.spec.js"
             },
             {
@@ -21224,7 +21224,7 @@
             },
             {
                 "relativePath": "src/FloatingActionButton/FloatingActionButton.spec.js",
-                "test": false,
+                "test": true,
                 "name": "FloatingActionButton.spec.js"
             },
             {
@@ -21245,7 +21245,7 @@
             },
             {
                 "relativePath": "src/GridList/GridList.spec.js",
-                "test": false,
+                "test": true,
                 "name": "GridList.spec.js"
             },
             {
@@ -21255,7 +21255,7 @@
             },
             {
                 "relativePath": "src/GridList/GridTile.spec.js",
-                "test": false,
+                "test": true,
                 "name": "GridTile.spec.js"
             },
             {
@@ -21276,7 +21276,7 @@
             },
             {
                 "relativePath": "src/IconMenu/IconMenu.spec.js",
-                "test": false,
+                "test": true,
                 "name": "IconMenu.spec.js"
             },
             {
@@ -21302,7 +21302,7 @@
             },
             {
                 "relativePath": "src/LinearProgress/LinearProgress.spec.js",
-                "test": false,
+                "test": true,
                 "name": "LinearProgress.spec.js"
             }
         ],
@@ -21328,7 +21328,7 @@
             },
             {
                 "relativePath": "src/List/ListItem.spec.js",
-                "test": false,
+                "test": true,
                 "name": "ListItem.spec.js"
             },
             {
@@ -21343,7 +21343,7 @@
             },
             {
                 "relativePath": "src/List/NestedList.spec.js",
-                "test": false,
+                "test": true,
                 "name": "NestedList.spec.js"
             }
         ],
@@ -21364,7 +21364,7 @@
             },
             {
                 "relativePath": "src/Menu/Menu.spec.js",
-                "test": false,
+                "test": true,
                 "name": "Menu.spec.js"
             },
             {
@@ -21374,7 +21374,7 @@
             },
             {
                 "relativePath": "src/Menu/menuUtils.spec.js",
-                "test": false,
+                "test": true,
                 "name": "menuUtils.spec.js"
             }
         ],
@@ -21395,7 +21395,7 @@
             },
             {
                 "relativePath": "src/MenuItem/MenuItem.spec.js",
-                "test": false,
+                "test": true,
                 "name": "MenuItem.spec.js"
             }
         ],
@@ -21416,7 +21416,7 @@
             },
             {
                 "relativePath": "src/Popover/Popover.spec.js",
-                "test": false,
+                "test": true,
                 "name": "Popover.spec.js"
             },
             {
@@ -21452,7 +21452,7 @@
             },
             {
                 "relativePath": "src/RadioButton/RadioButtonGroup.spec.js",
-                "test": false,
+                "test": true,
                 "name": "RadioButtonGroup.spec.js"
             }
         ],
@@ -21473,7 +21473,7 @@
             },
             {
                 "relativePath": "src/RaisedButton/RaisedButton.spec.js",
-                "test": false,
+                "test": true,
                 "name": "RaisedButton.spec.js"
             }
         ],
@@ -21510,7 +21510,7 @@
             },
             {
                 "relativePath": "src/SelectField/SelectField.spec.js",
-                "test": false,
+                "test": true,
                 "name": "SelectField.spec.js"
             }
         ],
@@ -21531,7 +21531,7 @@
             },
             {
                 "relativePath": "src/Slider/Slider.spec.js",
-                "test": false,
+                "test": true,
                 "name": "Slider.spec.js"
             }
         ],
@@ -21552,7 +21552,7 @@
             },
             {
                 "relativePath": "src/Snackbar/Snackbar.spec.js",
-                "test": false,
+                "test": true,
                 "name": "Snackbar.spec.js"
             },
             {
@@ -21562,7 +21562,7 @@
             },
             {
                 "relativePath": "src/Snackbar/SnackbarBody.spec.js",
-                "test": false,
+                "test": true,
                 "name": "SnackbarBody.spec.js"
             }
         ],
@@ -21583,7 +21583,7 @@
             },
             {
                 "relativePath": "src/Stepper/Step.spec.js",
-                "test": false,
+                "test": true,
                 "name": "Step.spec.js"
             },
             {
@@ -21593,7 +21593,7 @@
             },
             {
                 "relativePath": "src/Stepper/StepButton.spec.js",
-                "test": false,
+                "test": true,
                 "name": "StepButton.spec.js"
             },
             {
@@ -21603,7 +21603,7 @@
             },
             {
                 "relativePath": "src/Stepper/StepConnector.spec.js",
-                "test": false,
+                "test": true,
                 "name": "StepConnector.spec.js"
             },
             {
@@ -21613,7 +21613,7 @@
             },
             {
                 "relativePath": "src/Stepper/StepContent.spec.js",
-                "test": false,
+                "test": true,
                 "name": "StepContent.spec.js"
             },
             {
@@ -21623,7 +21623,7 @@
             },
             {
                 "relativePath": "src/Stepper/StepLabel.spec.js",
-                "test": false,
+                "test": true,
                 "name": "StepLabel.spec.js"
             },
             {
@@ -21633,7 +21633,7 @@
             },
             {
                 "relativePath": "src/Stepper/Stepper.spec.js",
-                "test": false,
+                "test": true,
                 "name": "Stepper.spec.js"
             }
         ],
@@ -21726,7 +21726,7 @@
             },
             {
                 "relativePath": "src/Tabs/Tabs.spec.js",
-                "test": false,
+                "test": true,
                 "name": "Tabs.spec.js"
             },
             {
@@ -21736,7 +21736,7 @@
             },
             {
                 "relativePath": "src/Tabs/TabTemplate.spec.js",
-                "test": false,
+                "test": true,
                 "name": "TabTemplate.spec.js"
             }
         ],
@@ -21752,7 +21752,7 @@
             },
             {
                 "relativePath": "src/TextField/EnhancedTextarea.spec.js",
-                "test": false,
+                "test": true,
                 "name": "EnhancedTextarea.spec.js"
             },
             {
@@ -21767,7 +21767,7 @@
             },
             {
                 "relativePath": "src/TextField/TextField.spec.js",
-                "test": false,
+                "test": true,
                 "name": "TextField.spec.js"
             },
             {
@@ -21782,7 +21782,7 @@
             },
             {
                 "relativePath": "src/TextField/TextFieldLabel.spec.js",
-                "test": false,
+                "test": true,
                 "name": "TextFieldLabel.spec.js"
             },
             {
@@ -21813,7 +21813,7 @@
             },
             {
                 "relativePath": "src/TimePicker/ClockMinutes.spec.js",
-                "test": false,
+                "test": true,
                 "name": "ClockMinutes.spec.js"
             },
             {
@@ -21843,7 +21843,7 @@
             },
             {
                 "relativePath": "src/TimePicker/TimePicker.spec.js",
-                "test": false,
+                "test": true,
                 "name": "TimePicker.spec.js"
             },
             {
@@ -21853,7 +21853,7 @@
             },
             {
                 "relativePath": "src/TimePicker/TimePickerDialog.spec.js",
-                "test": false,
+                "test": true,
                 "name": "TimePickerDialog.spec.js"
             },
             {
