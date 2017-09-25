@@ -20497,193 +20497,6 @@
         "mainFile": "src/svg-icons/toggle/check-box.js",
         "origin": "AUTHORED"
     },
-    "internal/app-canvas": {
-        "files": [
-            {
-                "relativePath": "src/internal/AppCanvas.js",
-                "test": false,
-                "name": "AppCanvas.js"
-            }
-        ],
-        "mainFile": "src/internal/AppCanvas.js",
-        "origin": "AUTHORED"
-    },
-    "internal/auto-lock-scrolling": {
-        "files": [
-            {
-                "relativePath": "src/internal/AutoLockScrolling.js",
-                "test": false,
-                "name": "AutoLockScrolling.js"
-            }
-        ],
-        "mainFile": "src/internal/AutoLockScrolling.js",
-        "origin": "AUTHORED"
-    },
-    "internal/before-after-wrapper": {
-        "files": [
-            {
-                "relativePath": "src/internal/BeforeAfterWrapper.js",
-                "test": false,
-                "name": "BeforeAfterWrapper.js"
-            }
-        ],
-        "mainFile": "src/internal/BeforeAfterWrapper.js",
-        "origin": "AUTHORED"
-    },
-    "internal/circle-ripple": {
-        "files": [
-            {
-                "relativePath": "src/internal/CircleRipple.js",
-                "test": false,
-                "name": "CircleRipple.js"
-            }
-        ],
-        "mainFile": "src/internal/CircleRipple.js",
-        "origin": "AUTHORED"
-    },
-    "internal/clear-fix": {
-        "files": [
-            {
-                "relativePath": "src/internal/ClearFix.js",
-                "test": false,
-                "name": "ClearFix.js"
-            }
-        ],
-        "mainFile": "src/internal/ClearFix.js",
-        "origin": "AUTHORED"
-    },
-    "internal/click-away-listener": {
-        "files": [
-            {
-                "relativePath": "src/internal/ClickAwayListener.js",
-                "test": false,
-                "name": "ClickAwayListener.js"
-            }
-        ],
-        "mainFile": "src/internal/ClickAwayListener.js",
-        "origin": "AUTHORED"
-    },
-    "internal/expand-transition": {
-        "files": [
-            {
-                "relativePath": "src/internal/ExpandTransition.js",
-                "test": false,
-                "name": "ExpandTransition.js"
-            }
-        ],
-        "mainFile": "src/internal/ExpandTransition.js",
-        "origin": "AUTHORED"
-    },
-    "internal/expand-transition-child": {
-        "files": [
-            {
-                "relativePath": "src/internal/ExpandTransitionChild.js",
-                "test": false,
-                "name": "ExpandTransitionChild.js"
-            }
-        ],
-        "mainFile": "src/internal/ExpandTransitionChild.js",
-        "origin": "AUTHORED"
-    },
-    "internal/focus-ripple": {
-        "files": [
-            {
-                "relativePath": "src/internal/FocusRipple.js",
-                "test": false,
-                "name": "FocusRipple.js"
-            }
-        ],
-        "mainFile": "src/internal/FocusRipple.js",
-        "origin": "AUTHORED"
-    },
-    "internal/overlay": {
-        "files": [
-            {
-                "relativePath": "src/internal/Overlay.js",
-                "test": false,
-                "name": "Overlay.js"
-            }
-        ],
-        "mainFile": "src/internal/Overlay.js",
-        "origin": "AUTHORED"
-    },
-    "internal/render-to-layer": {
-        "files": [
-            {
-                "relativePath": "src/internal/RenderToLayer.js",
-                "test": false,
-                "name": "RenderToLayer.js"
-            }
-        ],
-        "mainFile": "src/internal/RenderToLayer.js",
-        "origin": "AUTHORED"
-    },
-    "internal/scale-in": {
-        "files": [
-            {
-                "relativePath": "src/internal/ScaleIn.js",
-                "test": false,
-                "name": "ScaleIn.js"
-            }
-        ],
-        "mainFile": "src/internal/ScaleIn.js",
-        "origin": "AUTHORED"
-    },
-    "internal/scale-in-child": {
-        "files": [
-            {
-                "relativePath": "src/internal/ScaleInChild.js",
-                "test": false,
-                "name": "ScaleInChild.js"
-            }
-        ],
-        "mainFile": "src/internal/ScaleInChild.js",
-        "origin": "AUTHORED"
-    },
-    "internal/slide-in": {
-        "files": [
-            {
-                "relativePath": "src/internal/SlideIn.js",
-                "test": false,
-                "name": "SlideIn.js"
-            }
-        ],
-        "mainFile": "src/internal/SlideIn.js",
-        "origin": "AUTHORED"
-    },
-    "internal/slide-in-child": {
-        "files": [
-            {
-                "relativePath": "src/internal/SlideInChild.js",
-                "test": false,
-                "name": "SlideInChild.js"
-            }
-        ],
-        "mainFile": "src/internal/SlideInChild.js",
-        "origin": "AUTHORED"
-    },
-    "internal/tooltip": {
-        "files": [
-            {
-                "relativePath": "src/internal/Tooltip.js",
-                "test": false,
-                "name": "Tooltip.js"
-            }
-        ],
-        "mainFile": "src/internal/Tooltip.js",
-        "origin": "AUTHORED"
-    },
-    "internal/touch-ripple": {
-        "files": [
-            {
-                "relativePath": "src/internal/TouchRipple.js",
-                "test": false,
-                "name": "TouchRipple.js"
-            }
-        ],
-        "mainFile": "src/internal/TouchRipple.js",
-        "origin": "AUTHORED"
-    },
     "odedreuveny.material-ui-comps/icons/svg-icon@6": {
         "files": [
             {
@@ -20705,7 +20518,205 @@
         "mainFile": "src/SvgIcon/SvgIcon.js",
         "origin": "NESTED"
     },
-    "ui/paper": {
+    "odedreuveny.material-ui-comps/internal/overlay@1": {
+        "files": [
+            {
+                "relativePath": "src/internal/Overlay.js",
+                "test": false,
+                "name": "Overlay.js"
+            }
+        ],
+        "mainFile": "src/internal/Overlay.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-comps/internal/slide-in@1": {
+        "files": [
+            {
+                "relativePath": "src/internal/SlideIn.js",
+                "test": false,
+                "name": "SlideIn.js"
+            }
+        ],
+        "mainFile": "src/internal/SlideIn.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-comps/internal/auto-lock-scrolling@1": {
+        "files": [
+            {
+                "relativePath": "src/internal/AutoLockScrolling.js",
+                "test": false,
+                "name": "AutoLockScrolling.js"
+            }
+        ],
+        "mainFile": "src/internal/AutoLockScrolling.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-comps/internal/tooltip@1": {
+        "files": [
+            {
+                "relativePath": "src/internal/Tooltip.js",
+                "test": false,
+                "name": "Tooltip.js"
+            }
+        ],
+        "mainFile": "src/internal/Tooltip.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-comps/internal/scale-in@1": {
+        "files": [
+            {
+                "relativePath": "src/internal/ScaleIn.js",
+                "test": false,
+                "name": "ScaleIn.js"
+            }
+        ],
+        "mainFile": "src/internal/ScaleIn.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-comps/internal/clear-fix@1": {
+        "files": [
+            {
+                "relativePath": "src/internal/ClearFix.js",
+                "test": false,
+                "name": "ClearFix.js"
+            }
+        ],
+        "mainFile": "src/internal/ClearFix.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-comps/internal/click-away-listener@1": {
+        "files": [
+            {
+                "relativePath": "src/internal/ClickAwayListener.js",
+                "test": false,
+                "name": "ClickAwayListener.js"
+            }
+        ],
+        "mainFile": "src/internal/ClickAwayListener.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-comps/internal/enhanced-switch@1": {
+        "files": [
+            {
+                "relativePath": "src/internal/EnhancedSwitch.js",
+                "test": false,
+                "name": "EnhancedSwitch.js"
+            }
+        ],
+        "mainFile": "src/internal/EnhancedSwitch.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-comps/internal/scale-in-child@1": {
+        "files": [
+            {
+                "relativePath": "src/internal/ScaleInChild.js",
+                "test": false,
+                "name": "ScaleInChild.js"
+            }
+        ],
+        "mainFile": "src/internal/ScaleInChild.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-comps/internal/before-after-wrapper@1": {
+        "files": [
+            {
+                "relativePath": "src/internal/BeforeAfterWrapper.js",
+                "test": false,
+                "name": "BeforeAfterWrapper.js"
+            }
+        ],
+        "mainFile": "src/internal/BeforeAfterWrapper.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-comps/internal/circle-ripple@1": {
+        "files": [
+            {
+                "relativePath": "src/internal/CircleRipple.js",
+                "test": false,
+                "name": "CircleRipple.js"
+            }
+        ],
+        "mainFile": "src/internal/CircleRipple.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-comps/internal/app-canvas@1": {
+        "files": [
+            {
+                "relativePath": "src/internal/AppCanvas.js",
+                "test": false,
+                "name": "AppCanvas.js"
+            }
+        ],
+        "mainFile": "src/internal/AppCanvas.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-comps/internal/expand-transition-child@1": {
+        "files": [
+            {
+                "relativePath": "src/internal/ExpandTransitionChild.js",
+                "test": false,
+                "name": "ExpandTransitionChild.js"
+            }
+        ],
+        "mainFile": "src/internal/ExpandTransitionChild.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-comps/internal/render-to-layer@1": {
+        "files": [
+            {
+                "relativePath": "src/internal/RenderToLayer.js",
+                "test": false,
+                "name": "RenderToLayer.js"
+            }
+        ],
+        "mainFile": "src/internal/RenderToLayer.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-comps/internal/slide-in-child@1": {
+        "files": [
+            {
+                "relativePath": "src/internal/SlideInChild.js",
+                "test": false,
+                "name": "SlideInChild.js"
+            }
+        ],
+        "mainFile": "src/internal/SlideInChild.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-comps/internal/expand-transition@1": {
+        "files": [
+            {
+                "relativePath": "src/internal/ExpandTransition.js",
+                "test": false,
+                "name": "ExpandTransition.js"
+            }
+        ],
+        "mainFile": "src/internal/ExpandTransition.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-comps/internal/focus-ripple@1": {
+        "files": [
+            {
+                "relativePath": "src/internal/FocusRipple.js",
+                "test": false,
+                "name": "FocusRipple.js"
+            }
+        ],
+        "mainFile": "src/internal/FocusRipple.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-comps/internal/touch-ripple@1": {
+        "files": [
+            {
+                "relativePath": "src/internal/TouchRipple.js",
+                "test": false,
+                "name": "TouchRipple.js"
+            }
+        ],
+        "mainFile": "src/internal/TouchRipple.js",
+        "origin": "AUTHORED"
+    },
+    "odedreuveny.material-ui-comps/ui/paper@1": {
         "files": [
             {
                 "relativePath": "src/Paper/Paper.js",
@@ -20726,15 +20737,72 @@
         "mainFile": "src/Paper/Paper.js",
         "origin": "AUTHORED"
     },
-    "internal/enhanced-switch": {
+    "ui/appbar": {
         "files": [
             {
-                "relativePath": "src/internal/EnhancedSwitch.js",
+                "relativePath": "src/AppBar/AppBar.js",
                 "test": false,
-                "name": "EnhancedSwitch.js"
+                "name": "AppBar.js"
+            },
+            {
+                "relativePath": "src/AppBar/index.js",
+                "test": false,
+                "name": "index.js"
+            },
+            {
+                "relativePath": "src/AppBar/AppBar.spec.js",
+                "test": true,
+                "name": "AppBar.spec.js"
             }
         ],
-        "mainFile": "src/internal/EnhancedSwitch.js",
+        "mainFile": "src/AppBar/index.js",
+        "origin": "AUTHORED"
+    },
+    "ui/icon-button": {
+        "files": [
+            {
+                "relativePath": "src/IconButton/IconButton.js",
+                "test": false,
+                "name": "IconButton.js"
+            },
+            {
+                "relativePath": "src/IconButton/index.js",
+                "test": false,
+                "name": "index.js"
+            },
+            {
+                "relativePath": "src/IconButton/IconButton.spec.js",
+                "test": true,
+                "name": "IconButton.spec.js"
+            }
+        ],
+        "mainFile": "src/IconButton/index.js",
+        "origin": "AUTHORED"
+    },
+    "ui/flat-button": {
+        "files": [
+            {
+                "relativePath": "src/FlatButton/FlatButton.js",
+                "test": false,
+                "name": "FlatButton.js"
+            },
+            {
+                "relativePath": "src/FlatButton/FlatButtonLabel.js",
+                "test": false,
+                "name": "FlatButtonLabel.js"
+            },
+            {
+                "relativePath": "src/FlatButton/index.js",
+                "test": false,
+                "name": "index.js"
+            },
+            {
+                "relativePath": "src/FlatButton/FlatButton.spec.js",
+                "test": true,
+                "name": "FlatButton.spec.js"
+            }
+        ],
+        "mainFile": "src/FlatButton/index.js",
         "origin": "AUTHORED"
     },
     "internal/enhanced-button": {
@@ -20750,7 +20818,189 @@
                 "name": "EnhancedButton.spec.js"
             }
         ],
+        "mainFile": "src/internal/EnhancedButton.js",
+        "origin": "AUTHORED"
+    },
+    "ui/font-icon": {
+        "files": [
+            {
+                "relativePath": "src/FontIcon/FontIcon.js",
+                "test": false,
+                "name": "FontIcon.js"
+            },
+            {
+                "relativePath": "src/FontIcon/index.js",
+                "test": false,
+                "name": "index.js"
+            },
+            {
+                "relativePath": "src/FontIcon/FontIcon.spec.js",
+                "test": true,
+                "name": "FontIcon.spec.js"
+            }
+        ],
+        "mainFile": "src/FontIcon/index.js",
+        "origin": "AUTHORED"
+    },
+    "ui/auto-complete": {
+        "files": [
+            {
+                "relativePath": "src/AutoComplete/AutoComplete.js",
+                "test": false,
+                "name": "AutoComplete.js"
+            },
+            {
+                "relativePath": "src/AutoComplete/AutoComplete.spec.js",
+                "test": false,
+                "name": "AutoComplete.spec.js"
+            },
+            {
+                "relativePath": "src/AutoComplete/index.js",
+                "test": false,
+                "name": "index.js"
+            }
+        ],
+        "mainFile": "src/AutoComplete/index.js",
+        "origin": "AUTHORED"
+    },
+    "ui/avatar": {
+        "files": [
+            {
+                "relativePath": "src/Avatar/Avatar.js",
+                "test": false,
+                "name": "Avatar.js"
+            },
+            {
+                "relativePath": "src/Avatar/Avatar.spec.js",
+                "test": false,
+                "name": "Avatar.spec.js"
+            },
+            {
+                "relativePath": "src/Avatar/index.js",
+                "test": false,
+                "name": "index.js"
+            }
+        ],
+        "mainFile": "src/Avatar/index.js",
+        "origin": "AUTHORED"
+    },
+    "ui/badge": {
+        "files": [
+            {
+                "relativePath": "src/Badge/Badge.js",
+                "test": false,
+                "name": "Badge.js"
+            },
+            {
+                "relativePath": "src/Badge/Badge.spec.js",
+                "test": false,
+                "name": "Badge.spec.js"
+            },
+            {
+                "relativePath": "src/Badge/index.js",
+                "test": false,
+                "name": "index.js"
+            }
+        ],
+        "mainFile": "src/Badge/index.js",
+        "origin": "AUTHORED"
+    },
+    "ui/bottom-navigation": {
+        "files": [
+            {
+                "relativePath": "src/BottomNavigation/BottomNavigation.js",
+                "test": false,
+                "name": "BottomNavigation.js"
+            },
+            {
+                "relativePath": "src/BottomNavigation/BottomNavigation.spec.js",
+                "test": false,
+                "name": "BottomNavigation.spec.js"
+            },
+            {
+                "relativePath": "src/BottomNavigation/BottomNavigationItem.js",
+                "test": false,
+                "name": "BottomNavigationItem.js"
+            },
+            {
+                "relativePath": "src/BottomNavigation/BottomNavigationItem.spec.js",
+                "test": false,
+                "name": "BottomNavigationItem.spec.js"
+            },
+            {
+                "relativePath": "src/BottomNavigation/index.js",
+                "test": false,
+                "name": "index.js"
+            }
+        ],
+        "mainFile": "src/BottomNavigation/index.js",
+        "origin": "AUTHORED"
+    },
+    "ui/card": {
+        "files": [
+            {
+                "relativePath": "src/Card/Card.js",
+                "test": false,
+                "name": "Card.js"
+            },
+            {
+                "relativePath": "src/Card/CardActions.js",
+                "test": false,
+                "name": "CardActions.js"
+            },
+            {
+                "relativePath": "src/Card/CardExpandable.js",
+                "test": false,
+                "name": "CardExpandable.js"
+            },
+            {
+                "relativePath": "src/Card/CardHeader.js",
+                "test": false,
+                "name": "CardHeader.js"
+            },
+            {
+                "relativePath": "src/Card/CardMedia.js",
+                "test": false,
+                "name": "CardMedia.js"
+            },
+            {
+                "relativePath": "src/Card/CardText.js",
+                "test": false,
+                "name": "CardText.js"
+            },
+            {
+                "relativePath": "src/Card/CardTitle.js",
+                "test": false,
+                "name": "CardTitle.js"
+            },
+            {
+                "relativePath": "src/Card/index.js",
+                "test": false,
+                "name": "index.js"
+            }
+        ],
+        "mainFile": "src/Card/index.js",
+        "origin": "AUTHORED"
+    },
+    "ui/checkbox": {
+        "files": [
+            {
+                "relativePath": "src/Checkbox/Checkbox.js",
+                "test": false,
+                "name": "Checkbox.js"
+            },
+            {
+                "relativePath": "src/Checkbox/Checkbox.spec.js",
+                "test": false,
+                "name": "Checkbox.spec.js"
+            },
+            {
+                "relativePath": "src/Checkbox/index.js",
+                "test": false,
+                "name": "index.js"
+            }
+        ],
         "origin": "AUTHORED",
-        "mainFile": "src/internal/EnhancedButton.js"
+        "mainFile": "src/Checkbox/index.js"
     }
 }
