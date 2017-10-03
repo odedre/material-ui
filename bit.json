@@ -1,14 +1,17 @@
 {
     "env": {
         "compiler": "bit.envs/compilers/react@3",
-        "tester": "bit.envs/testers/karma-mocha-react@7"
+        "tester": "bit.envs/testers/karma-mocha-react@8"
     },
     "dependencies": {
         "odedreuveny.material-ui-utils-t/styles/transitions": "1",
         "odedreuveny.material-ui-utils-t/styles/get-mui-theme": "1",
         "bit.envs/compilers/react": "3"
     },
-    "structure": "components/{namespace}/{name}",
+    "structure": {
+        "components": "components/{namespace}/{name}",
+        "dependencies": "components/.dependencies"
+    },
     "dist": {
         "target": "dist"
     }

@@ -20819,7 +20819,8 @@
             }
         ],
         "mainFile": "src/internal/EnhancedButton.js",
-        "origin": "AUTHORED"
+        "origin": "AUTHORED",
+        "mainDistFile": "dist/src/internal/EnhancedButton.js"
     },
     "ui/font-icon": {
         "files": [
@@ -21909,7 +21910,7 @@
                 "name": "ToolbarTitle.js"
             }
         ],
-        "origin": "AUTHORED",
-        "mainFile": "src/Toolbar/index.js"
+        "mainFile": "src/Toolbar/index.js",
+        "origin": "AUTHORED"
     }
 }
